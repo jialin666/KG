@@ -2,635 +2,371 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e29bdca6-6b0a-42dc-99f0-18c9dc18f67f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc_rank.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/important_doc.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2015-10-12 12:54:49@砸一亿投向高端，中兴AXON天机是个什么鬼.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2015-10-13 17:12:42@这才是国货：中兴自主处理器敲定！OS也来了.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2015-12-16 14:06:08@中兴微电子：小心，我也有64位大小核芯片了.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2016-01-25 19:24:05@iPhone 6S天冷关机！中兴：零下30°无压力.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2016-04-06 12:44:20@中兴换帅风波背后，美国：怪我咯.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2017-08-21 13:20:29@中兴手机的困境，为啥国外混得比国内好？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2017-10-19 13:44:45@手握全球优质资源，中兴手机却打出这样的烂牌？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2017-12-16 11:47:46@中兴通讯员工坠亡始末解读：从富士康到中兴都在跳楼的原因.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2017-12-18 09:19:59@对中兴工程师坠楼的思考：四十岁失业并不可怕.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2017-12-26 12:36:05@中兴领主强势登陆尼日利亚全面挺进海外高端市场.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-01-02 11:05:47@中兴通讯的2017，由这三大亮点组成？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-01-19 10:22@中兴的2017：被罚数十亿，外挨打内求救，新品挑战多.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-01-25 05:32:00@1用户对中兴AxonM整体配置评价很高.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-01-25 13:13:43@痛定思痛之后，中兴仍难“中兴”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-01-26 09:51@业绩持续下滑被折叠的中兴，还能掰直吗？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-02-01@地方违法违规举债问责扩围 四名会计师被行政警告.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-02-26 16:16@MWC2018 中兴推出三款新机.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-03-22 13:07:34@中兴宣布成立子公司：针对中国市场，3年重回国内主流.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-03-23@5G来临前的寒冬下 弱冠之年的中兴准备重新崛起 | 爱活网 Evolife.cn.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-03-27 11:01:04@中兴手机的旧三年和新三年.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-03-31 09:01:26@中兴手机架构巨变：意欲开拓中国市场，重新夺回市场领导地位.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-10 05:45:00@一机顶俩中兴天机AxonM京东火爆热销.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-11 05:31:00@1中兴折叠手机解决三方会议.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 09:00@美商务部欲“封杀”中兴通讯板块概念股一览.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 09:12@商务部：将密切关注中兴事态进展随时准备采取必要措施.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 09:23@美方宣布对中兴公司采取出口管制商务部回应.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 09:29:33@中兴遭美商务部禁购零部件7年，到底在预谋啥？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 10:05@中兴回应美方激活拒绝令：与各方积极沟通及应对.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 10:09@一文读懂中兴遭遇“禁售令”：台湾联发科也被卷入.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 10:40:53@美英突然双杀中兴商务部及中兴回应.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 11:10:13@中兴禁购！这个禁买时间针对中国制造2025？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 13:17@遭美国禁售零件7年对中兴有几大影响？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 13:32:53@中兴再次被制裁的原因：诚信，揭露中国缺芯之痛.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 14:16:18@封杀中兴！在牵强的理由背后美国打的什么算盘？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 15:23@中兴遭美国制裁这是第二次了怎么回事中兴如何应对.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 16:08@中兴：大国博弈的牺牲品.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 17:16:59@家临江：别管中兴了盯着腾讯破400元.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 17:42@商务部回应美国全面制裁封杀中兴：密切关注事态进展.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-17 21:43:54@中兴被禁，华为、海康告急！中美贸易战直刺中国“缺芯”软肋.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 00:45@中兴“跌倒”倒逼中国“补芯”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 04:09:11@中兴“短痛”倒逼中国“补芯”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 06:04@慎重考虑对中兴公司采取限制措施.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 07:24:49@中兴发布内部信：成立危机工作组呼吁员工头脑清醒.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 07:41:53@数十类别受波及，中兴遭禁售令.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 07:53:50@中兴：正积极与各方面沟通及应对.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 09:02:01@受伤害的不止中兴，还有美国芯片厂！直刺中国集成电路的脆弱内“芯”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 09:06:18@末路中兴：你知道中兴给伊朗出口的是啥吗？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 09:09:30@中兴遭罚，事发早有苗头.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 09:13:03@数十类别受波及中兴遭禁售令.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 09:18@中兴遭罚，事发早有苗头.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 09:24:22@中兴为何被美全面封杀？五大血泪教训必须知道.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 09:36:24@三大变数告诉你美国制裁中兴影响可大可小.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 10:03:03@一场灭顶之灾，中兴危机的始末与时代启示.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 10:10:00@制裁中兴只是投石问路，制裁中芯国际可能是后手.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 10:16@中兴“跌倒”倒逼中国“补芯”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 10:32:44@中美科技竞争阴影：华为无奈少碗饭 中兴惨烈半条命.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 10:42@中美博弈，中兴受殃，自主科技产业崛起岌岌.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 10:43:54@中兴遭美国制裁，芯片这道门槛必须要跨过去.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 10:58@拿中兴开刀，看来这次特朗普是玩真的了.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 11:08@智通港股解盘|美再对中兴动手恒指30000点大关岌岌可危.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 11:11:08@无芯何以中兴.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 11:38:28@中兴手机回应安卓系统授权或被取消：正沟通，很难预估结果.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 12:15@中兴或失安卓使用权美国代理律师:美方禁令难以扭转.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 13:11:46@中兴被制裁是栽在员工手里，中国90%芯片进口怨谁？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 14:06:49@中兴或失去安卓系统使用权律师：美方禁令难扭转.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 14:29:52@中兴是真的麻烦了,面临3亿美元的罚款,安卓系统也要黄?.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 15:52:49@中兴事件始末.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 17:05:15@又一重击，中兴连安卓都不能用了？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 19:16@中兴被制裁反思：高端芯片超90%靠进口国产任重道远.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 22:21@中兴遭封杀，美股受影响清单一览.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 23:38:27@中兴被禁后的“自救与他救”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 23:52@中兴的芯片之殇：塞翁失马焉知非福.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18 @探究中兴遭禁售令究竟该如何“拆招”？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-18@中美贸易战进入第二回合 中兴首先中弹 | 爱活网 Evolife.cn.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 00:09@中兴通讯遭遇制裁警示千万不能废了自主研发的武功.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 00:41@英特尔将执行美对中兴&quot;禁售令&quot;中国芯还有多远？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 07:20:03@中兴最辜负了谁？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 07:42:00@【早报】辛酸！中兴危急，76岁的创始人侯为贵连夜赶飞机“救火”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 08:12@专家：中兴曾认罚巨款不如在美雇律师和游说组织.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 09:09@中兴渡劫：灭顶之灾与吃力不讨好的芯片行业.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 09:13:02@中兴到底有多少生机？重度依赖症患者的最后斡旋希望.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 09:37:35@中美贸易战第一枪，指向的是中兴的咽喉，还是中国技术的心脏？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 09:54@中兴被制裁最新进展：已停止相关业务向美申请解释.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 10:05:42@老杳:有关中兴被禁的冷思考,活该！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 10:11@中兴事件新进展：告知员工停止所有与美禁令相关业务.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 10:22:38@福布斯：等待中兴的将会是未来几周内申请破产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 10:42:15@自强不息！我们要中兴更要“中芯”！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 10:58:35@老外眼中的中兴被封杀事件.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 11:15:25@中兴的阿格琉斯之踵，我们离“中国制造2025”当真只有7年？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 11:25:59@一场灭顶之灾，中兴危机始末与时代启示.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 13:09@中兴通讯.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 13:58:00@中兴的今天,又会是谁的明天？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 14:49:22@中兴之殇的背后，是中华民族的伟大复兴.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 15:29@中兴禁运危机下76岁创始人侯为贵再出山.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 15:47@中光防雷：业绩不依赖中兴通讯.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 17:57:10@福布斯：软硬件齐断货，中兴将在数周内破产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 18:27@美制裁中兴公司引发中国“芯”之痛.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 18:43:02@中兴要求员工重学欧美法律，合规考试考满分才算过关.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 19:30@中兴事件辜负了谁？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 19:32@舆论为刀俎，中兴成鱼肉.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 21:01:05@中兴遇劫，茅台能救驾吗？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 21:13@中兴受“封杀”影响全体员工重学欧美法律：考满分才算过关.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 22:01:05@中兴危难关头76岁创始人&quot;出山&quot;救火！背影令人心酸.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 22:23@环球时报社评：制裁中兴美国公司必将跟着一起痛.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 @中兴被制裁，一个中国式错误的后果.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19 @有观点认为背靠中国智能硬件最强大的深圳，中兴通讯或迎来转型契机.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-19-@中兴遭美制裁，创始人侯为贵再出山！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 00:00:00@中兴这事儿，你怎么看？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 01:23@中兴被封杀给中国提了醒：这些东西花钱买不来.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 07:50@央视评中兴遭封杀：将动摇国际对美投资信心.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 08:32:13@中国政府是否该为中兴撑腰？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 10:04@这是中兴的最新声明！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 10:24:14@中兴遭美国封杀，阿里云也会有同样遭遇吗？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 11:20:32@中兴终于有所行动，全体员工学习欧美法律.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 11:38@美国会报告提中兴华为联想欲扣“商业间谍”帽子.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 14:30@紧抓这两点，这是中兴再“兴”的真正机会！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 14:56@告诉你声明背后的真相：中兴当然有理由不服！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 15:04:37@风暴中心的中兴|中兴发布会现场图集.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 15:28@中兴被制裁：前欧美市场员工的一些理解和认识.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 15:46:19@中兴通讯：禁令制裁使公司立即进入休克状态.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 15:46@中兴董事长称将通过法律手段解决问题，中兴的旗帜将永远飘扬.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 15:50:24@外汇交易时要怎么做风险评估和资金管理？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 16:08@中兴董事长谈美禁令:认真反思求人不如求己.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 16:35:39@震惊！中兴通讯发布会：美国的禁令可能致中兴通讯休克！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 16:45@美国来“卡脖子”“中兴们”最好的反制在这里.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 17:37:00@中兴“失火”殃及茅台、外卖我们靠什么赢得竞争？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 20:07:00@“禁运”后中兴高管首次发声，关于现状、争议与未来应对措施.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 22:21:47@76岁的他，中兴困局中最心痛的人.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 9:23:07@美分析师：库存清理完后中兴手机将停售，或无法收到更新.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-20 @中兴：有13亿人支持，我们有能力有信心应对挑战.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-21 01:07@中兴回应美国制裁极不公平不能接受.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-21 01:19@10分钟的新闻发布会中兴透露出的事却没那么简单.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-21 07:05:07@10分钟的新闻发布会中兴透露出的事情却没那么简单.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-21 07:31@中兴危机能否带来“中兴”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-21 08:25@10分钟的新闻发布会，中兴透露出的事情却没那么简单.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-21 08:50:01@硅谷早知道丨#06中兴死定了？错！理由在这里.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-21 09:15@禁售危机下的中兴：隐形地产王国.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-21 10:24:31@中兴近期受美国禁令影响,在全球电信设备市场将受到巨大的冲击.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-21 12:32@10分钟的新闻发布会，中兴透露出一件大事情.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-21 13:12@外媒：中兴将向美国商务部递交更多证据.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-21 18:12@是谁在误解中兴？中国“芯”当自强.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-21 21:28@国际舆论：美制裁中兴实为贸易保护美企将蒙受巨额损失.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-21 22:03:27@中兴之难，惊醒了谁的强国梦？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-22 04:10@中兴事件扩大上游厂商传停工.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-22 05:13:00@中兴BladeV9工信部入网后置横排双摄.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-22 05:30@中兴创新神机首次降价下单立减200元.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-22 08:23@中兴遭禁中国“芯”痛AI能否弯道超车？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-22 11:48@中兴事情持续发酵?马云听了想收购.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-22 15:07:00@盘点中兴芯片危机爆发全过程.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-22 15:11:00@失落的中兴手机：底牌尽显靠什么打翻身仗？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-22 18:00:00@中兴(00763)与美或可再次达成和解，律师：可从波音案中吸取经验.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23 04:11@社论－美制裁中兴两岸都需认真应对.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23 07:36:00@应该怎样反思中兴休克.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23 07:53:28@京东方等辟谣&quot;制裁传闻&quot;多公司澄清中兴事件影响.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23 08:27@多公司澄清中兴事件影响.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23 09:15@美国不肯放过中兴：高通处境极其尴尬.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23 09:43:38@中兴生死劫.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23 10:05:40@中兴就是一杆秤，所有的企业应以它为准星.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23 11:29@中美磋商进程加速：极度煎熬一周后，中兴事件初现转机.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23 11:56:31@为什么是中兴？风起青萍之末，中兴制裁案有太多细节让国人辗转反侧.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23 12:21:06@中兴召开发布会：反对贸易政治化加大研发投入.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23 14:32@如果中兴制裁事件换了华为会怎样?华为老兵这么看.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23 15:38:30@青年力：由中兴开始的2018中美芯片战.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23 19:26@美高级官员：美商务部已批准中兴提供补充数据.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23 19:34:34@应该怎样反思中兴休克.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23-@中兴与美国的“芯片战”迷局，谁才是真正的幕后黑手？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-23@【早报】中兴再发公告：已采取措施遵守禁令.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-24 01:35:58@越女事务所：中兴事件，吓到了一批人.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-24 06:30:46@中美磋商进程加速中兴事件出现重大转机.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-24 07:26:10@中兴41岁老员工:这可能是我第5次失业分享3点忠告.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-24 08:53:40@中兴：坚持核心技术自主创新尽最大努力保护用户利益.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-24 09:00@中兴董事长：尽最大努力保护全球用户利益.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-24 09:29:43@如果中国反制，谁将成为美国版的“中兴”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-24 13:56:08@一个中兴事件，竟牵扯出国产操作系统深深的忧伤.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-24 14:39@中兴新：中兴事件不影响&quot;11中兴新债&quot;本息正常兑付.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-24 15:05:24@中兴事件，吓到了一批人.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-24 15:21:15@全面审视中兴事件，倪光南在内的九大专家有啥说法.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-24 18:50@中兴董事长：美未结束调查就施以制裁，极不公平.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-25 08:36@中兴、乐视们的最后退路：手中有地心里不慌.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-25 09:23:00@中兴通讯事件现转机中美即将走上正轨.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-25 10:03:09@中兴事件再思考，没有软硬件优势怎么前行？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-25 10:15:02@中兴事件背后，中国制造如何从底层自救.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-25 14:42@中兴事件后，如何进行芯片投资？投资人分成两派.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-25 15:27@中兴受制裁最全面的事实和分析解读.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-25 20:35@来，我告诉你一个真正的中兴通讯.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-25-@中兴：致力于核心技术自主创新不断加强研发投入力度.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-25@中兴困境下的反思：中国半导体何时才能长大？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-26 07:45@中兴遭禁背后：5G技术与市场利益的博弈.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-26 08:54@中美开始谈判，中兴会不会被“特赦”？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-26 14:16@美封杀令谁遭殃？中兴欲采取行动高通等美企已“躺枪”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-26 14:30:55@几十家上市公司与中兴撇清关系：这家公司除外.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-27 16:34@创建新账号手机注册.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-27 16:46@中兴找12家美供应商开会表态:美国这项命令太天真.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-27 17:09@中兴危局：生死90天.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-27 21:02:38@中兴危机加重台湾当局禁止联发科向其出售芯片.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-27 21:06@联发科：未发布不能向中兴出售芯片的声明.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-27 23:20:17@中兴通讯Q1财报公布：净利16.87亿元 同比增长39.01%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-28 00:00@中兴被制裁的真正原因.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-28 07:57:47@中兴通信发布一季报：如无制裁成绩本应如此亮眼.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-28 09:05:21@联发科声明辟谣没有发布不能（给中兴）供货的声明.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-28 09:33@联发科：正积极申请中兴通讯的货品出口许可证.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-28 11:24:54@联发科声明：谣言猛于虎，我和中兴好好的.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-28 13:19:19@MTK看中兴禁售风波，这从来就不是一个人的时代.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-28 14:24:41@博弈中兴三点真相一定要认清.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-28 15:12:40@焦虑老帅中兴侯为贵的故事或者尚未终结.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-28 21:04@这家日企也曾面临“中兴式封杀”中国市场救了它.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-28 22:26:17@中兴硬气！还要发新旗舰：外观颠覆现有手机！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-29 04:10@中兴Q1获利创高Q2不乐观.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-29 09:47:00@中兴一石激千浪中国公司担忧的还有另一个“定时炸弹”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-29 12:35:00@遭美封杀_中兴通讯该何去何从？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-04-29 20:57@中兴被台湾限售，华为被美国调查，相似遭遇华为为何底气更足？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-01 09:21:00@震惊！美国禁供中兴芯片,专家信口开河是祸国殃民吗？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-01 18:46:52@中兴：将按程序向美国提供资料，股票继续停牌.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-02 15:57:46@中兴为啥被制裁？特朗普领导下美国押宝5G网络.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-03 10:25:00@大家放心，联发科并没有拉黑中兴.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-03 10:46:00@英美对中兴通讯发布7年禁令对中兴，对中国有什么影响？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-03 @遭遇封杀中兴该何去何从？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-05 11:18:30@被美国狠制裁后！中兴：提交暂停执行拒绝令申请.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-05 15:21:01@曙光将至中兴尽最大努力在更短时间内解决问题.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-05 16:46:51@近8万人的坚守与信念中兴静待黎明破晓.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-06 20:46:42@中兴事件现转机，有望短期解决：夜再长也有尽头.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-06 20:56@中兴事件成贸易磋商重点，解决时机就在前方.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-06 20:57@中兴事件现转机，有望短期解决：夜再长也有尽头.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-06 21:10:23@没有了华为、中兴？美国小型运营商该怎么办.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-07 07:50@商务部：中方就中兴公司案与美方进行了严正交涉.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-07 10:08:04@中兴禁购事件最新进展，已正式向美方提交暂停执行拒绝令的申请.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-07 10:09@来源：华尔街见闻.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-07 10:11:33@黑暗的尽头是否是光明，中兴可能迎来转机？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-07 11:24:25@美国商务部部长罗斯：将迅速寻求对处罚中兴的“替代方案”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-07 13:41:00@中兴：要求暂停执行美国禁令已经提交申请.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-07 14:25:17@我们需要你！中兴通讯已经到了生死的关头.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-07 15:41:30@等待太阳升起，中兴提交制裁暂缓申请.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-07 15:51@中兴提交申请下一步该怎么做？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-07 17:30:24@最佳季报彰显中兴创新实力，最后的胜利往往在于再坚持一下的努力之中.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-07 18:08@最佳季报彰显中兴创新实力，最后的胜利往往在于再坚持一下的努力之中.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-07 19:47:49@出现转机！中兴将与国家保持一致推动问题尽快解决.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-07 @“中兴门”引起了全球的轰动，生态难难于技术.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-07@中美贸易洽谈部分达成共识 中兴或迎转机.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-08 11:42@中兴或迎转机：互利共赢力争更短时间解决问题.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-08 11:42@出现转机！中兴将与国家保持一致推动问题尽快解决.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-08 11:43@中兴事件现曙光：最后的胜利，往往在于再坚持一下的努力之中.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-08 12:32:46@美媒：对中兴的封杀或让美国企业受伤.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-08 17:22:08@中兴通讯：2017年度股东大会延期.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-08 17:55@以坚持努力赢最后胜利中兴困局突围在望.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-08 17:55@迎转机，中兴坚定信心，双线应对.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 00:15@正在阅读：松了口气！联发科获得批准向中兴出口芯片松了口气！联发科获得批准向中兴出口芯片.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 12:07:39@中兴在华手机停售？内部人称不会放弃本土市场.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 12:31@中兴并非孤军奋斗坚持努力赢得最后胜利.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 13:02:31@中兴的33年轮回.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 13:43:56@中兴:走出自己的创新之路前途更加光明.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 14:08:39@以坚持努力赢最后胜利中兴困局突围在望.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 15:17@中兴危机解除难言曙光，拆分重组或成最终归宿.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 16:03@最后的胜利在于再坚持一下的努力中兴坚信终将走出荆棘.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 16:15@惨…中兴玩完了！遭美断料没手机可卖.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 16:31@传中兴(00763)因美国禁令或出售手机业务中兴暂无置评.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 16:32@历年财报透视：中兴通讯是中国高科技杰出代表.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 17:11:05@中美洽谈继续进行，中兴通讯看到希望.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 17:21@中兴(00763)将出售手机业务？回应称纯属博眼球.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 17:52@中兴将出售手机业务？公司刚刚这样回应.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 20:07@中兴通讯(00763)受拒绝令影响主要经营活动已无法进行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09 @中兴通讯：迎难而上进击的中国脊梁.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09@坚持努力以期破局通信业需要中兴回归.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-09@相信中兴相信一再逆流而上的中国故事.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10 03:01:24@﻿经营活动无法进行中兴：现金充足.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10 05:19:00@早报：中兴发公告称主营活动已无法进行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10 07:10:02@中兴禁令以来的24个日夜.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10 09:23:03@中兴真的撑不住了？传与小米华为OPPO洽谈出售手机业务.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10 09:48:34@中兴要卖掉手机业务自救？谁会来接盘.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10 09:56:01@中兴拒绝令背后的众生相驳斥“公知”与“看客”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10 10:30@中兴主要经营活动已无法进行，传将出售手机业务.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10 11:00:49@澳洲最大电信商Telstra将停售中兴移动设备.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10 15:07:35@打赢持久战：走过黑夜的中兴通讯更加光明.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10 17:50@中兴八万人的殊死之战近期将现转机.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10 17:54@中兴八万人的殊死之战近期将现转机.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10 18:55:01@中兴折戟：旗舰店商品被清空，手机业务面临停摆.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10 20:25@BIS称将立即评估中兴通讯(00763)的申诉.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10 8:59@中兴通讯:主要经营活动已无法进行，但否认出售手机部门.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10-@将出售手机业务？中兴通讯：公司主要经营活动已经无法继续进行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-10@Facebook大规模重组：增设区块链部门；传中兴即将出售手机业务，华为小米或参与；苹果大举招编辑|极客早知道.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-11 08:50@联发科：目前没有发布不能向中兴出售芯片的相关声明.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-11 09:37:49@中兴沉痛宣言：公司主要经营活动已无法进行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-11 09:43:03@此刻的坚持更有意义中兴，挺住！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-11 11:12:05@此刻的坚持更有意义中兴，挺住！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-11 14:04@中兴因美禁令&quot;停摆&quot;外媒：断言其转让手机部门为时尚早.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-11 16:42@预测：中兴事件关键时刻希望在前方.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-11@封杀中兴只为在5G抢占先机 美国禁令已对全球通讯市场造成伤害 | 爱活网 Evolife.cn.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-11@胜利曙光渐近正视中兴的核心竞争力.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-12 06:15@中国芯第一次“突围战”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-13 09:35:15@中兴事件”给科技工作的启示的3点看法.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-13 10:16:33@中兴：美国作出的销售禁令处罚措施过重.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-13 11:36:00@中兴事件会给服务提供商带来广泛影响.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-13 12:25:36@中兴：失误而非撒谎未履行协议美禁令处罚太重.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-13 8:50:07@外媒：面对禁令，瘫痪中的中兴仍在为生存奋斗.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 00:15@正在阅读：重磅！特朗普这句话，我们知道中兴的结局或将扭转重磅！特朗普这句话，我们知道中兴的结局或将扭转.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 05:24:58@环球时报：美恢复中兴业务的新决定值得欢迎.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 06:31:02@美国总统发推：为中兴提供快速恢复业务的途径.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 06:35:40@川普刚发推说，中兴还有救.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 07:13@中美大国利益博弈：中兴危机或重现生机.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 07:50:37@特朗普称将恢复中兴业务中兴通讯迎重大转机！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 07:54@中美大国利益博弈：中兴被美制裁或现重大转机！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 07:55:56@特朗普：正在为中兴通讯提供一种快速恢复业务的途径.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 08:34@中美大国利益博弈：中兴危机或重现生机.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 09:18@就在刚刚，我写作本文五十分钟前，美国总统特朗普在其官方推特上发布了推文，宣布已经交代美国商务部让中兴公司恢复业务。.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 09:52:23@中兴事件或现转机！特朗普突然发推：正助中兴恢复业务已责成美商务部尽快处理.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 09:53:44@分析师解读：中兴事件现重大转机下一步怎么走？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 09:58:43@中兴事件或现转机特朗普：快速恢复中兴业务.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 09:59@特朗普宣布将“解禁”中兴中兴下一步会怎么走？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 10:41@中兴事件戏剧性转折这三个信号意味深长.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 10:43@新转机 特朗普责令商务部尽快落实和恢复中兴通讯业务的发展.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 11:05:02@中兴重现生机，中美博弈将怎么收场.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 11:07:32@特朗普称正为中兴提供快速恢复业务途径.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 11:09:20@特朗普推特声称将对中兴&quot;解禁&quot;背后是利益博弈.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 11:14:26@美国恢复中兴业务，原来打的这个算盘.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 11:20:12@转机是有了，中兴下一步该怎么走？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 11:31:06@中兴获救！特朗普松口：让中兴快速恢复业务.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 12:03:00@特朗普暗示将放宽对中兴的制裁外媒:摆出让步姿态.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 12:07@沪深股指高开高走，中兴有望“解禁”提振市场信心.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 13:47@用信念坚守中兴通讯欲将逆势重获新生——写在汶川地震十周年.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 14:05:16@安信证券：中兴事件现重大转机禁止令或将被暂停执行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 14:14@爆料！8万中兴人的出路有了希望.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 14:18@BIS称将立即评估中兴的申诉，坚持就是胜利！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 14:18@处于逆境的中兴，坚持就是胜利.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 14:53:42@中兴事件迎来真正转折点：给中国出海科技企业带来哪些启示.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 15:15:45@中兴危局有转机了？是时候再复盘一下经验和教训了.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 15:54:06@外交部：十分赞赏美方对中兴公司问题积极表态.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 15:58:20@外交部：十分赞赏美方对中兴的积极表态.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 16:08@特朗普松口，刘鹤赴美，中兴问题能够因此解决吗？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 16:19@中兴事件的分析.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 16:20:59@特朗普：刀下留中兴.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 16:32:56@中国外交部：十分赞赏美方对中兴问题积极表态.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 16:32:56@争取经贸磋商筹码？特朗普突然对中兴释放出善意.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 16:33:17@处于逆境的中兴，坚持就是胜利扫码阅读手机版.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 16:39@中兴事件迎来转机信任和合作将会通向共赢.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 16:50@如期发薪诚信履责看中兴通讯的“契约精神”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 16:53@中兴以何成为全球通信“四大玩家”之一――大格局纵深解析中国通信崛起之路.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 18:39@中兴有望死里逃生中美元首共同给出快速解决方案.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 21:50@中兴通讯事件缓解多基金仍保持谨慎态度.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 23:37@中兴“柳暗花明”？美国制裁事件现重大转机，带火一波股市！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14 @众望所归!中兴解禁现转机下一步当如何？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-14@特朗普推特送出复活卷轴 中兴制裁禁令即将迎来转机？ | 爱活网 Evolife.cn.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 00:14:16@中兴事件现转机？特朗普算了一笔账.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 00:25@中兴危机峰回路转.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 00:57:50@中兴事件现戏剧化转折中国大使这三段话意味深长.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 01:00@中兴以何成为全球通信“四大玩家”之一.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 08:00:48@美国商务部开始行动：解除对中兴的严厉制裁.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 09:19@特朗普发“善心”救中兴的背后.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 09:52:30@中兴事件迎戏剧性转折特朗普放过中兴的背后有什么条件.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 11:25:38@特朗普松口，刘鹤赴美，中兴问题能够因此解决吗？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 13:53@柳暗花明又一村特朗普发声将“解禁”中兴.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 14:23:40@特朗普竟要“放”中兴一马：将帮助中兴恢复业务.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 14:48@28个日夜：有一种坦诚与担当叫做中兴.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 14:49@特朗普推文“解禁”中兴？听其言更要观其行！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 16:53:12@特朗普推文“解禁”中兴？听其言更要观其行！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 17:03:23@特朗普发声：中兴业务即将恢复.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 17:08:07@得救的中兴并不能高兴太久，它已经可能失去了手机市场.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 19:45:39@三星Exynos处理器将在2019年公布新客户：中兴希望大.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 22:39:09@别再感恩戴德了！美国这次绝不是放过中兴，而是在坑杀中国的未来.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 22:51:49@路透社：三星在与中兴等手机厂商协商移动芯片供应事宜.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-15 7:43:19@美国商务部部长：将迅速寻求对处罚中兴的替代方案.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-16 01:13:00@未来两周中兴危机将迎来“一个关键性的时间窗口”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-16 07:51@“中兴危局”迎来转机时，你也应该知道他.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-16 08:16@美方表态将寻求“替代方案” 中兴问题出现转机.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-16 09:15@重磅：刚刚，美国放生中兴交换条件曝光！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-16 10:08@财经观察家|马光远：我们为什么要感谢中兴？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-16 12:13:09@中兴事件始末.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-16 12:14:32@“中兴事件”的最新进展与深度思考.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-16 13:11@“中兴事件”的最新进展与深度思考.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-16 13:11@谨慎乐观！“中兴事件”剧情反转，但故事仍在继续.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-16 18:20@凤凰涅中兴中长期价值将被重估.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-16 20:53:50@美国放话：“中兴们真正复活了?”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-16 22:38@中兴解禁背后，殷一民欠所有中国人一句道歉！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-16 @美国突然要&quot;恢复中兴业务&quot;日本企业或将松口气.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-16@特朗普称中兴是中国手机巨头原因何在.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-17 00:41@因为热爱所以钟情他们是中兴领主最强“代言人”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-17 09:18:52@美国商务部或在两周内解决中兴出口禁令.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-17 09:19:17@和中兴谈合作，三星到底在谋划什么？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-17 10:16@新东方网.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-17 10:59:32@中兴在列三星将对外出货Exynos芯片.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-17 15:25:43@又是一年电信日细数中兴追赶世界通信水平的33年.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-17 16:26@这家知名大外企打算向中兴出售芯片.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-17 17:30@再谈：中兴事件的受益方和受害者们.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-18 11:26@中国对特朗普提供一揽子拟议购买计划中兴是交易一部分.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-18 15:16:17@中兴事件或遇转机，专家提示：&quot;缺芯&quot;问题仍需警惕！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-18 15:47@中兴禁运是机会国产芯片如何借势攻坚？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-18 16:08:04@中兴通讯禁运事件风云再起美国众议院不支持特朗普放生提议.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-18 17:48@勇于担当坚定信念中兴文化特质中的诗意.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-18 21:54@海外版图再扩大中兴领主首次登陆海湾市场.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-18 23:29:01@心疼中兴 特朗普为中兴辩护被驳回.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-19 00:04@中兴为「中国再次伟大」遭受美国制裁？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-19 11:25:51@中兴龙出生天！出品国产迅龙芯，堪比高通旗舰级芯片.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-19 12:11:18@中兴：死也要“吃”掉苹果！库克：损失280亿，美国爹求你快收手.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-19 16:24:27@奇怪！中兴CEO：我们有芯片，为什么还求美国不制裁？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-19 17:06@联发科只是小咖！这数字揭露：中兴没高通就「死定」.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-19 18:24:03@封杀后的蝴蝶效应：中兴还没倒下，美国芯片巨头先陷入泥潭.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-20 09:58:12@中兴BladeA2S智能机（3GRAM+32GROM香槟金）京东699元.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-20 11:12:00@从中兴事件到中国高科技产业发展命运的解读.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-20 18:25@白宫经济顾问指美国可能寻求中兴通讯(00763-HK)作「非常大」调整.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-21 08:34@中兴放生之路并不易美方要求更换高层.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-21 11:25@高新兴：非常愿意在中兴认可的条件下承接其部分业务.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-21 13:45:44@中兴彻底抛掉了支付牌照“证券版”银联已接手.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-21 13:56:35@中兴通讯：最艰难的电信日，最值得期待的电信日.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-21 14:33:29@由特朗普推特引发中兴事件的三点思考.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-21 18:48:00@豪门难入的美国市场中兴这一路走来的不易!.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-21-@中兴事件一波三折：允许重新审视制裁但需更换高层.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 11:00@白宫经济顾问：中兴通讯可恢复业务，但不能躲过处罚.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 11:12@一封客户来信：没人关心我们的发展只有你们中兴通讯.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 11:12@中兴通讯是中国高科技走向世界的名片.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 11:48@消息人士：中美就解决中兴通讯相关争端大致达成一致.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 11:50:04@美媒:中美就中兴问题达成方案美将取消销售禁令.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 12:06:14@中兴确认：美方要求调整管理层并将取消禁售令.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 12:07@中兴通讯回复每经记者：美国将取消销售禁令属实.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 12:08:37@一封客户来信：没人关心我们的发展只有你们中兴通讯.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 12:23:18@美媒称中美已就解决中兴问题达成一致.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 12:28:42@中美就解决中兴问题达成共识细节仍在磋商之中.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 12:46:22@中兴：美国将取消销售禁令消息属实.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 13:07@来源：每日经济新闻.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 13:14@新华社：美媒称中美已就解决中兴问题达成一致.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 13:26:28@新华社：美媒称中美已就解决中兴问题达成一致.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 13:26:48@中美就解决中兴问题达成大致方案将取消禁令 官方确认.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 13:43@中兴事件柳暗花明：禁令将取消，但公司高层需调整.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 13:52@中美就解除中兴禁令达成共识中兴恐被迫支付巨额罚款.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 14:03:00@美媒：中美已就解决中兴问题达成一致.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 14:04@重磅！中美已就解决中兴问题达成一致.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 14:13:42@转机！中兴通讯销售禁令有望取消！或成下周中美重要议题8万员工31万股东可稍松口气.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 14:23@美方消息人士：美将取消中兴通讯销售禁令.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 14:27@有救了？华尔街日报：美将取消中兴销售禁令.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 14:52@正在阅读：重大利好！中兴确认中美达成取消禁令的大致方案重大利好！中兴确认中美达成取消禁令的大致方案.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 14:54@外媒称美国将取消中兴通讯销售禁令.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 15:17@“芯”路坎坷非中兴无“芯”之过.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 15:55:00@重磅!中兴通讯获“释”销售禁令将被取消!.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 16:04@相关人士称中兴董事会大概率面临整改股权结构也有可能发生变化.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 16:10@美媒：中美达成一致，美将取消中兴通讯销售禁令.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 16:15:12@中兴已收到美方新的要求材料将尽快解决.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 16:21@中美就解决中兴问题达成一致7年禁令或解除？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 16:56:52@中美贸易战停火！中兴或迎柳暗花明.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 17:10@中兴通知生产线为复工做好全面准备.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 17:18:46@中兴通讯重见曙光，5G概念、通信设备板块全面爆发.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 17:22:58@2018-05-2217:22:58中兴解决方案浮出水面：生产线收通知为复工做准备.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 17:44@中兴(00763-HK)传获撤禁令外交部:中美将讨经贸细节.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 18:23:01@美国将取消中兴禁令方案细节还在敲定中.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 18:32@你居然是这样的中兴通讯.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 18:34:18@中兴通讯即将“苏醒”！美或取消销售禁令，5G板块盘中大涨.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 18:46@平民品牌的顶级跑车.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 18:52:01@美国对中兴解除禁令！高级别代表团将来华协商细节.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 19:38@利好来了!中兴峰会路转机构看好5G主题持续发酵.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 23:09@中兴事件“峰回路转”，这个板块今天涨疯了.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22 @中美就中兴问题达成和解框架，但谈判仍在进行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22@【0522今日快讯】中兴确认：美方将取消禁售令.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22@中兴通讯：断供36天他们仍在期待黎明.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22@传中兴(00763)董事会大概率面临整改 股权结构也有可能发生变化.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-22@冷静看待中兴事件，10款国产新“芯”强力回击（上）！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 00:03@美国取消对中兴禁售：要求中兴调整管理层和董事会并罚款.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 03:01:46@﻿美将撤禁令中兴事件见曙光.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 05:48@解决中兴问题中美达成一致.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 05:55@特朗普：未就解除中兴通讯(00763-HK)制裁与中国达成协议.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 06:53:52@特朗普：美国尚未与中国就中兴事宜达成任何协议.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 06:58@中美已就解决中兴问题达成一致.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 07:21:24@美媒：中美已就解决中兴问题的大致路径达成一致.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 07:44@中兴通讯国产供应商接到供货信号“国产替代”加速.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 08:15@中兴通讯部分国产供应商已接到供货信号.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 08:19:28@中美已就中兴事件达成一致，细节敲定中，8万名员工松了一口气…….txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 08:30:13@中兴国产供应商接到供货信号发内部信号召坚定信心.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 08:33:09@中兴柳暗花明，汽车前途未卜.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 08:49:22@中兴金牌抢市场，明日将爆发涨停潮（附股）.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 09:17@禁令解除|中兴仍将面临巨额罚款、高层更换、规管措施…….txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 09:57@你们在关注中兴，他们已经偷偷在开始行动.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 10:00@中兴真的有救？特朗普：仍没共识.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 10:03:43@头条|中兴确认取消禁令，5G崛起，全网最全中兴供应商名单.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 11:17:02@中兴禁令将被取消，但特朗普似乎又变卦了.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 11:49:06@从中兴通讯来看高科技企业国际化要闯的四道关.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 13:51@「新兴市场之父」麦朴思说出中兴(000063-CN)(00763-CN)获美国解标的「真道理」.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 16:37:10@中美已就解决中兴问题达成共识禁令解除迎曙光.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 17:43:13@[买入评级]中兴事件快评(通信行业)：守得云开见月明37个日夜之后的变与不变.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 18:12:16@刚刚！美国将取消对中兴禁令暴露专利恐慌.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 18:17:37@中兴解禁有望未来或将继续发力5G.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 18:36:24@中兴通讯：A股继续停牌.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 18:58@中兴通讯：中兴新增持公司H股203.8万股.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 19:01:00@中兴事件怎么解决？特朗普最新讲话释放了三个信号.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 20:12:01@中兴通讯A股继续停牌控股股东增持.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 22:46:43@“共同迎接黎明的到来”!美取消禁令，中兴万事俱备，只欠东风.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23 @中兴即将复工，国产替代有机会加速.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23@中兴禁令或取消号召员工迎接黎明到来.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23@中兴通讯的禁令阵痛与自救筹码！！.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23@坚守底线不动摇中兴通讯解禁就在眼前.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-23@贸易战不打了中兴通讯有望顺利回归.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24 00:24@要不要“放过”中兴？美白宫国会分歧难弥.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24 04:09@中兴谋妥备案供应商准备上膛.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24 05:07:01@中兴问题已经得到了解决是时候购机支持一波了.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24 07:46:44@美国再次对中兴采取制裁措施，中兴成立“危机应对工作组”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24 08:08:37@高管调整、巨额罚款，中兴解决方案代价不菲.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24 10:00:00@中兴禁售令后迎来国际电信日，“5G先锋”影响力仍将持续.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24 10:14:14@中兴事件解决在望，美方：道义放两边利字摆中间.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24 11:39:00@中兴事件博弈仍在继续，损失或超200亿人民币.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24 12:10:00@中兴解禁倒计时.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24 15:12:08@一波三折，从中兴事件看家电行业的核心科技之路.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24 16:52@中兴新过去十二个月增持中兴通讯H股203.8万股.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24 17:05:32@中兴尚陷停牌状态：沉睡中的“巨鳄”等待苏醒.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24 17:38@即将回归细数这次中兴事件的全球化“大考”.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24 18:26:15@特朗普再发言中兴禁令解除或进入落地阶段.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24 18:26@禁令解除脉络日渐清晰中兴回归或有所期.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-24@中兴事件解决进入倒计时.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-25 08:26:44@特朗普提议对中兴再罚13亿美元解除禁令国会抵制.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-25 08:34@一波三折中兴禁令解除或进入落地阶段.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-25 14:51:04@avast：中兴手机预装恶意软件嵌入固件底层.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-25 14:56@中美联合声明带给中兴的定力和耐心.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-25 14:57@要如何才能真正“拯救”中兴？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-25 15:21:32@控股股东中兴新2017年增持公司H股.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-25 17:10@多方博弈涡流中的中兴.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-25 17:26:13@特朗普讲话透玄机中兴禁令解除或无悬念扫码阅读手机版.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-25 18:11:40@双面屏，新玩法，有待进步，中兴天机Axon.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-26 00:11:00@美国制裁中兴损失至少200亿.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-26 07:55:50@美国商务部拟有条件解除禁令中兴恢复经营有望.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-26 08:08:16@中兴小鲜4手机（金属机身香槟金指纹）京东556元（赠品）.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-26 08:45@关于中兴事件的美方表态一览.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-26 08:54@为让中兴“乖”，美国又想出个套路.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-26 09:47@一波三折：中兴解禁可能要打一场持久战.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-26 10:44@特朗普称中兴将恢复业务提改组、罚款13亿美元等.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-26 13:57:50@美国在贸易战之际又抛“中兴禁令”中方已准备好亮剑.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-26 17:14:13@马化腾谈中兴事件：中国基础学科薄弱，移动支付等只是表面辉煌.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-26 19:02:02@中兴最终逃过一劫的背后！这三个问题必须警钟长鸣.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-26 19:47:02@【金焱看美国】中兴和解，特朗普围堵中国的胜算和败算.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-26 @外媒：美政府已达成协议让中兴恢复业务运营.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-27 00:54:45@中兴制裁即将取消这一胜利付出了多么惨重代价？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-27 03:01:29@﻿美商务部通报国会允撤中兴禁令.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-27 04:09@中兴躲过死刑？美国会恐不买单.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-27 04:10@川加码习杀价中兴重罚13亿美元解禁.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-27 10:00:50@中兴（zte）BladeA2S手机（3GRAM+32GROM香槟金）京东699元.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-27 11:31@中兴才现曙光，海康威视又遇至暗时刻？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-27 17:10@更新版1-中港个股：美国达成协议放中兴通讯一马--国会助手.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-27 19:50@中兴业务即将恢复特朗普让中兴改组并缴纳罚款.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-27@美国商务部就解除对中兴公司的销售禁令通报美国国会.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 07:13@中兴不被制裁后外媒：高通收购恩智浦交易将放行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 08:28:43@【早新闻】中兴通信后，这家龙头公司要防范.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 09:01:48@[买入评级]通信行业周报：中兴事件逐步缓和芯片成本降低加速北斗商用化.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 09:20:00@佳力图：特朗普已经就中兴恢复运作达成协议佳力图高开.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 09:38:43@美国政府已达成一项协议以便让中兴通讯恢复业务运营.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 09:50:17@科信技术：5G标准下月公布+中兴制裁即将取消科信技术涨停.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 09:58:59@瑞斯康达：5G标准下月公布+中兴松绑瑞斯康达涨停.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 10:00:58@中兴的阿格琉斯之踵，我们离“中国制造2025”当真只有7年？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 10:01:59@5G标准下月公布+中兴松绑5G概念股走强.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 10:18@反思中兴事件，马化腾这么说.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 10:26@相约2018数博会，中兴软创区域经济大脑震撼来袭.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 10:28@早报：中兴将恢复业务.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 10:41:30@中兴力维荣膺“2018中国安防AI创新企业30强”奖项.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 10:41@起死回生！中兴通讯近日将正式恢复正常业务.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 13:39:28@深南股份：5G标准下月公布+中兴松绑深南股份涨停.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 14:31@中电信(00728.HK)：铁塔公司上市影响仍难确定中兴事件未见影响.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 16:45@中美贸易战“停火”，但中兴真的可以涅槃重生吗？.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 17:16:06@中兴软创亮相2018贵阳数博会，拥抱数据智能未来.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 17:27@从中兴事件看技术严重“空心化”的中国变速箱.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 17:57:58@财经网微评论（0人参与）.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 17:59@中国或批准高通并购恩智浦仅需确认美解除中兴禁令.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 18:24@找论坛全部车系全部地区全部主题摩托车论坛.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 19:04:06@中国或批准高通并购恩智浦仅需确认美解除中兴禁令.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 21:06:21@中兴案背后的美国立法-行政权之争.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 @中兴、安保相继遭禁背后：美国的抑制与中国的强势崛起.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 @华为中兴之后，海康和大华也遭遇美国采购禁令.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28 @特朗普团队寻求与国会在中兴通讯问题上停火.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28@搭VM发动机的国产美式大皮卡中兴大领主漳州实惠登场.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28@皮卡中国行携手酒城中兴领主惠动泸州.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-28@通信设备行业:中兴事件持续发酵 光芯片战略地位凸显.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news/2018-05-29 07:55@谷歌“亲儿子”面板再曝：Pixel3常规全面屏Pixel3XL刘海设计.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20151012" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20151013" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20151216" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20160125" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20160406" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20170821" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20171019" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20171216" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20171218" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20171226" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180102" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180119" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180125" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180126" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180201" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180226" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180322" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180323" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180327" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180331" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180410" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180411" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180417" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180418" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180419" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180420" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180421" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180422" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180423" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180424" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180425" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180426" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180427" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180428" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180429" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180501" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180502" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180503" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180505" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180506" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180507" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180508" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180509" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180510" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180511" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180512" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180513" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180514" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180515" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180516" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180517" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180518" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180519" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180520" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180521" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180522" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180523" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180524" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180525" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180526" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180527" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180528" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/story/20180529" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/timelines.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/items.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bk/important_doc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bk/timelines.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/important_doc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/timelines.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-06@【掘金冲锋号】孟晚舟被捕事件最新消息" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-06@中兴事件历史重演：孟晚舟被捕或引出华为违反美国对伊朗出口禁令？ - OFweek物联网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-06@华为回应孟晚舟事件：美加法律体系最终给出公正结论" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-06@华为董事陈黎芳回应CFO孟晚舟事件：相信加拿大和美国法律体系给出公正结论" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-06@受任正非女儿孟晚舟事件影响 股市通讯股集体低开" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-06@商务部回应孟晚舟被捕事件：尚未掌握相关情况" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-06@孟晚舟事件加剧市场恐慌情绪 今晚小非农登场" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-06@孟晚舟事件表明必须放弃幻想做持久战准备" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-06@孟晚舟保释听证将举行 华为孟晚舟被捕事件回顾及最新消息" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-06@谨慎对待华为孟晚舟事件的发酵效应" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-06@﻿孟晚舟事件背后有猫腻？ 华为高层回应：并无任何不当行为" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-07@中方将对孟晚舟事件采取报复行为？外交部回应" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-07@华为孟晚舟被捕事件，给激光圈带来什么样的启示？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-07@深圳市政府就孟晚舟事件声明" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-09@孟晚舟被捕事件未完 梁华将暂代华为CFO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-10@【中国测绘网】任正非接受外媒采访，回应了孟晚舟事件，相信正义会得到伸张" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-10@华为孟晚舟被拘事件持续发酵 加拿大担忧中国报复" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-10@受到华为孟晚舟事件影响加拿大鹅两天跌去15％" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-10@孟晚舟事件外交部两出重手" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-10@孟晚舟事件：加拿大在中美间“走钢丝”" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-11@关于孟晚舟事件，加拿大人对美国很恼火" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-11@加拿大鹅-加拿大鹅因孟晚舟事件股价暴跌 加拿大企业波及严重 - 美股 - 至诚财经网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-11@加拿大鹅暴跌波司登暴涨 孟晚舟事件导致加拿大鹅被华人抵制" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-11@华为孟晚舟事件启示：中美贸易摩擦是发展使然 - OFweek光通讯网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-11@因华为孟晚舟事件加拿大鹅跌倒，波司登吃饱" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-11@孟晚舟为什么不姓任而姓孟 孟晚舟被捕事件和张首晟去世有关系吗？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-11@孟晚舟事件重挫加企“加拿大鹅”" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-11@环球时报谈孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@《国际产业》介入孟晚舟事件？川普：若有利于美国就会做" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@华为回应孟晚舟获保释：期待美加及时、公正结束这一事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@华为回应孟晚舟获准保释：期待美加及时公正结束此事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@华为孟晚舟事件启示：中美贸易摩擦是发展使然" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@华为：CFO孟晚舟获保释 期待及时、公正结束该事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@华为：CFO孟晚舟获保释 期待及时公正结束这一事件-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@华为：法庭同意孟晚舟保释 期待及时、公正结束该事件-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@听证会按时举行 孟晚舟被捕事件最新进展" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@外交部回应加拿大前外交官康明凯被拘事件-更新中- CFi.CN 中财网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@孟晚舟已回到家人身边 就此事件她这样说……" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@孟晚舟获保释  华为：期待及时公正结束这一事件 - A5创业网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@孟晚舟获保释 华为" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@孟晚舟获保释 华为：期待美加及时、公正结束这一事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@孟晚舟获保释，华为：我们期待美、加政府能及时、公正地结束这一事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@孟晚舟获保释，华为：期待美加及时公正结束此事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@孟晚舟获保释，华为：期待美加政府公正结束这一事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@孟晚舟获准保释 华为" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@孟晚舟被保释后发声：已回到家人身边！特朗普或干预该事件，一切才刚刚开始！ - 中国日报网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@孟晚舟被准保释 华为称期待加美早日结束这一事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@特朗普对孟晚舟事件表态：必要时干预 怎么干预？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@特朗普就孟晚舟事件宣称：若有助与中国贸易谈判 他将会干预" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@特朗普就孟晚舟事件首表态" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@特朗普首次就孟晚舟事件表态 若是有这个好处他就会介入" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@特朗普首次就孟晚舟事件表态：如有利于美国，肯定会干预" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-12@贼喊捉贼！美国或就孟晚舟事件发布赴华旅行警告" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-13@两加拿大人被拘与孟晚舟事件有关？外交部回应" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-13@全球媒体对孟晚舟事件都怎么说？他们也不能忍！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-13@加拿大一名伐木工人到驻加使馆 为孟晚舟事件致歉" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-13@华为CFO孟晚舟事件：中国力量让世界忌惮-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-13@境外媒体认为：孟晚舟事件是美对华严重挑衅" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-13@孟晚舟事件后续：美国务院提醒公民没事少去中国“胡溜达”" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-13@孟晚舟事件始末及后续 孟晚舟为什么不信任美国人？(2)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-13@孟晚舟事件始末及后续 孟晚舟为什么不信任美国人？(3)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-13@孟晚舟事件折射美国焦虑 - 时论广场" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-13@孟晚舟事件是否会影响中加经贸关系或中美贸易战？商务部回应" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-13@孟晚舟事件是否会影响中美贸易战？商务部回应" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-13@孟晚舟事件最新后续 康明凯之后斯帕弗被拘留这人曾见过金正恩" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-13@特朗普表态后，加外长称美国不应将孟晚舟事件的法律程序政治化" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-13@美国律师：孟晚舟事件具有政治动机 不符合引渡条件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-14@【分析】华为事件引爆5G商机大掠夺；受孟晚舟事件影响,华为在日本供应商的订单被搁置；特朗普干预孟晚舟案或将加速中美达成协议" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-14@中国驻加拿大大使：孟晚舟事件是美国有预谋的政治追杀！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-14@加媒评孟晚舟被捕事件：美国强盗手段威胁国际法治" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-14@加拿大就孟晚舟事件警告特朗普 孟晚舟事件始末回顾" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-14@孟晚舟事件后，加拿大农贸商成“惊弓之鸟”" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-14@孟晚舟嫁了几次 孟晚舟在加拿大为什么被逮捕，事件前因后果(2)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-14@惴惴不安！孟晚舟事件再发酵，加拿大这些人慌了" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-14@美媒评孟晚舟被捕事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-14@美媒：顾问告诫特朗普不要干预华为CFO孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-14@驻加大使在加撰文谈孟晚舟事件：棱镜门了解一下" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-15@中国驻加大使：拘押孟晚舟事件是美国的政治追杀" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-15@外媒关注孟晚舟事件 日媒" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-15@孟晚舟事件后，加拿大鹅市值蒸发了近18亿美金！这些在华赚得盆钵体满的企业也紧张了" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-15@德国和瑞士网民热评孟晚舟女士被捕事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-16@孟晚舟事件始末 华为接班人还是孟晚舟吗？(2)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-17@外媒谈孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-17@孟晚舟事件启示：师美长技 建立中国域外法律适用体系" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-17@孟晚舟事件提供了分化瓦解五眼联盟的机会" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-18@加媒：孟晚舟事件后，加拿大汽车行业担心失去中企投资" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-18@外媒曝光孟晚舟事件背后阴谋：有组织有预谋的打压-更新中- CFi.CN 中财网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-19@受孟晚舟事件影响 英媒：中加自贸谈判已停滞 - 国际 - 中时" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-19@揭秘操控孟晚舟事件背后的神秘组织" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-20@从抢人大战到孟晚舟事件：2018年人力资源十大观察" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-20@华为接待外国记者，孟晚舟事件有解？外交部这样回应- CFi.CN 中财网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-20@直击华为媒体沟通会：回应孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-20@陈文：从法律层面解决“孟晚舟事件”的两种可能" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-21@IDC圈一周最HOT！IDCC2018完美落幕；华为孟晚舟事件持续发酵；76家企业被工信部纳入2018年“黑名单”" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-21@孟晚舟加拿大事件后首度发声：为陌生人的信任泪流满面" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-24@华为回应孟晚舟事件：公司业务不受个案影响" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-25@华为董事长回应孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-26@华为董事长梁华首度回应孟晚舟事件、5G市场、国际合作" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2018-12-26@华为董事长梁华首次公开谈孟晚舟事件：期待“晚舟早归航”，已获26个5G合同" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-01@“孟晚舟事件”&amp;“新椰岛精神”，用实力说话的椰岛2019将怎样搞事？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-02@华为5G有多牛，孟晚舟女士的事件给我们哪些感悟？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-04@加政府：孟晚舟事件后13名加拿大人在华被拘 8人已释放" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-04@加方" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-07@专家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-07@加代表团访华" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-07@复盘“孟晚舟事件”：华为为何如此克制？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-07@排队1小时，加价买不到！被孟晚舟事件连累的加拿大鹅，翻身了" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-07@法制日报评孟晚舟案" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-08@孟晚舟事件启示录：中企需警惕美国“长臂”法律陷阱" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-10@华为孟晚舟事件生涟漪：路透社称新证据曝光 - 我爱研发网 52RD.com - R&amp;D大本营" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-10@外交部就金正恩访华、孟晚舟事件等答记者问" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-15@加拿大政府换司法部长 “孟晚舟事件”或现转机" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-16@中国对加拿大动真格了 孟晚舟事件斗争还在继续" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-16@任正非回应孟晚舟事件 十分想念女儿 相信加方法院的判决 - A5创业网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-16@任正非回应孟晚舟事件：相信美加法律体系是开放的" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-16@任正非首次回应女儿孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-16@华为任正非首次谈及孟晚舟事件：十分想念女儿" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-16@孟晚舟事件    陆外交部：加方滥用司法程序" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-16@孟晚舟事件 陸將不惜一切逼迫加拿大讓步 - 國際 - 中時電子報" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-17@任正非回应“孟晚舟事件”：华为无资源无背景，今日危机十年前早有预料" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-17@任正非还原“孟晚舟事件”经过 称女儿很坚强" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-17@任正非首次回应孟晚舟事件：相信美加法律-华为,任正非,孟晚舟, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-17@美国务卿与加外长通话 涉及加毒贩和孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-18@任正非回应孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-18@关于中加关系、孟晚舟事件、加公民被扣押，驻加拿大大使回应 - 海外网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-18@孟晚舟事件后任正非首度接受国内媒体专访：对未来“胸有成竹” 五年后销售收入翻番" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-18@孟晚舟事件后，任正非首度接受国内媒体专访" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-18@驻加拿大大使谈孟晚舟事件：像是“被朋友背后捅刀”" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-21@任正非专访全文" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-21@任正非回应女儿孟晚舟事件：我相信美加的法律体系" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-21@任正非回应波兰子公司和孟晚舟事件：正走法律程序" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-21@任正非谈孟晚舟事件：原因需看美加司法部的沟通邮件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-22@华为cfo孟晚舟事件后续：美将正式向加方提出引渡 - A5创业网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-22@华为回应美国将引渡孟晚舟一事：注意到相关报道 密切关注事件进展" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-22@孟晚舟事件再起波澜！美国将向加拿大正式提出引渡孟晚舟" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-22@若美正式引渡孟晚舟，中方是否会报复？媒体六问孟晚舟事件，外交部一一回应" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-23@外交部再答孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-25@加拿大媒体栽赃“孟晚舟事件”蠢到家：常识都不顾了" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-25@孟晚舟向日经新闻投稿，回应华为牛津事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-25@被迫改口？加拿大驻华大使称收回对孟晚舟事件言论" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-27@一周外交观察：“孟晚舟事件”进入关键时期，加拿大驻华大使刚吐“真言”为何又收回？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-01-30@孟晚舟事件發酵A股低迷 法人：中長線買點到" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-02-25@华为孟晚舟事件最新进展 孟晚舟为什么会被扣押原因意味深长" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-02-25@华为梁华：不能说孟晚舟事件不是政治驱动 - A5创业网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-02-25@梁华：孟晚舟事件不会改变华为在加拿大的研发投入策略" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-03-01@华为外籍顾问评价孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-03-02@外交部发言人陆慷就孟晚舟事件发表谈话-孟晚舟,中国,加方,引渡,执意,陆慷,敦促,逮捕令,公民,女士," afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-03-04@外交部：“孟晚舟事件”是一起严重政治事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-03-04@孟晚舟起诉加政府-孟晚舟起诉加政府 孟晚周事件最新进展" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-03-04@爱陌客视角：从“孟晚舟事件”看国籍的重要性" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-03-08@刚刚，王毅回应孟晚舟案和华为事件！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-03-08@华为事件－孟晚舟引渡案听证 延期再战" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-03-12@中方：孟晚舟事件是极为恶劣的政治事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-03-15@《國際社會》任正非：孟晚舟事件，加拿大也是受害者" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-03-15@任正非谈孟晚舟：被捕前她曾想离职 引渡事件后两人关系更加密切-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-03-15@任正非：女儿孟晚舟不会接班 两人的关系在引渡事件后更加亲密-直播-亿邦动力网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-03-15@任正非：女儿孟晚舟不会接班，两人的关系在引渡事件后更加亲密" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-03-16@任正非：孟晚舟被扣前正想换工作 加拿大事件让父女感情更深" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件 - 副本/2019-03-30@孟晚舟最新消息 2019年华为孟晚舟事件最新消息汇总" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-06@【掘金冲锋号】孟晚舟被捕事件最新消息" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-06@中兴事件历史重演：孟晚舟被捕或引出华为违反美国对伊朗出口禁令？ - OFweek物联网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-06@华为回应孟晚舟事件：美加法律体系最终给出公正结论" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-06@华为董事陈黎芳回应CFO孟晚舟事件：相信加拿大和美国法律体系给出公正结论" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-06@受任正非女儿孟晚舟事件影响 股市通讯股集体低开" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-06@商务部回应孟晚舟被捕事件：尚未掌握相关情况" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-06@孟晚舟事件加剧市场恐慌情绪 今晚小非农登场" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-06@孟晚舟事件表明必须放弃幻想做持久战准备" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-06@孟晚舟保释听证将举行 华为孟晚舟被捕事件回顾及最新消息" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-06@谨慎对待华为孟晚舟事件的发酵效应" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-06@﻿孟晚舟事件背后有猫腻？ 华为高层回应：并无任何不当行为" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-07@中方将对孟晚舟事件采取报复行为？外交部回应" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-07@华为孟晚舟被捕事件，给激光圈带来什么样的启示？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-07@深圳市政府就孟晚舟事件声明" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-09@孟晚舟被捕事件未完 梁华将暂代华为CFO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-10@【中国测绘网】任正非接受外媒采访，回应了孟晚舟事件，相信正义会得到伸张" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-10@华为孟晚舟被拘事件持续发酵 加拿大担忧中国报复" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-10@受到华为孟晚舟事件影响加拿大鹅两天跌去15％" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-10@孟晚舟事件外交部两出重手" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-10@孟晚舟事件：加拿大在中美间“走钢丝”" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-11@关于孟晚舟事件，加拿大人对美国很恼火" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-11@加拿大鹅-加拿大鹅因孟晚舟事件股价暴跌 加拿大企业波及严重 - 美股 - 至诚财经网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-11@加拿大鹅暴跌波司登暴涨 孟晚舟事件导致加拿大鹅被华人抵制" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-11@华为孟晚舟事件启示：中美贸易摩擦是发展使然 - OFweek光通讯网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-11@因华为孟晚舟事件加拿大鹅跌倒，波司登吃饱" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-11@孟晚舟为什么不姓任而姓孟 孟晚舟被捕事件和张首晟去世有关系吗？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-11@孟晚舟事件重挫加企“加拿大鹅”" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-11@环球时报谈孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@《国际产业》介入孟晚舟事件？川普：若有利于美国就会做" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@华为回应孟晚舟获保释：期待美加及时、公正结束这一事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@华为回应孟晚舟获准保释：期待美加及时公正结束此事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@华为孟晚舟事件启示：中美贸易摩擦是发展使然" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@华为：CFO孟晚舟获保释 期待及时、公正结束该事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@华为：CFO孟晚舟获保释 期待及时公正结束这一事件-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@华为：法庭同意孟晚舟保释 期待及时、公正结束该事件-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@听证会按时举行 孟晚舟被捕事件最新进展" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@外交部回应加拿大前外交官康明凯被拘事件-更新中- CFi.CN 中财网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@孟晚舟已回到家人身边 就此事件她这样说……" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@孟晚舟获保释  华为：期待及时公正结束这一事件 - A5创业网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@孟晚舟获保释 华为" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@孟晚舟获保释 华为：期待美加及时、公正结束这一事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@孟晚舟获保释，华为：我们期待美、加政府能及时、公正地结束这一事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@孟晚舟获保释，华为：期待美加及时公正结束此事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@孟晚舟获保释，华为：期待美加政府公正结束这一事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@孟晚舟获准保释 华为" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@孟晚舟被保释后发声：已回到家人身边！特朗普或干预该事件，一切才刚刚开始！ - 中国日报网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@孟晚舟被准保释 华为称期待加美早日结束这一事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@特朗普对孟晚舟事件表态：必要时干预 怎么干预？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@特朗普就孟晚舟事件宣称：若有助与中国贸易谈判 他将会干预" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@特朗普就孟晚舟事件首表态" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@特朗普首次就孟晚舟事件表态 若是有这个好处他就会介入" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@特朗普首次就孟晚舟事件表态：如有利于美国，肯定会干预" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-12@贼喊捉贼！美国或就孟晚舟事件发布赴华旅行警告" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-13@两加拿大人被拘与孟晚舟事件有关？外交部回应" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-13@全球媒体对孟晚舟事件都怎么说？他们也不能忍！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-13@加拿大一名伐木工人到驻加使馆 为孟晚舟事件致歉" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-13@华为CFO孟晚舟事件：中国力量让世界忌惮-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-13@境外媒体认为：孟晚舟事件是美对华严重挑衅" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-13@孟晚舟事件后续：美国务院提醒公民没事少去中国“胡溜达”" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-13@孟晚舟事件始末及后续 孟晚舟为什么不信任美国人？(2)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-13@孟晚舟事件始末及后续 孟晚舟为什么不信任美国人？(3)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-13@孟晚舟事件折射美国焦虑 - 时论广场" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-13@孟晚舟事件是否会影响中加经贸关系或中美贸易战？商务部回应" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-13@孟晚舟事件是否会影响中美贸易战？商务部回应" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-13@孟晚舟事件最新后续 康明凯之后斯帕弗被拘留这人曾见过金正恩" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-13@特朗普表态后，加外长称美国不应将孟晚舟事件的法律程序政治化" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-13@美国律师：孟晚舟事件具有政治动机 不符合引渡条件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-14@【分析】华为事件引爆5G商机大掠夺；受孟晚舟事件影响,华为在日本供应商的订单被搁置；特朗普干预孟晚舟案或将加速中美达成协议" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-14@中国驻加拿大大使：孟晚舟事件是美国有预谋的政治追杀！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-14@加媒评孟晚舟被捕事件：美国强盗手段威胁国际法治" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-14@加拿大就孟晚舟事件警告特朗普 孟晚舟事件始末回顾" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-14@孟晚舟事件后，加拿大农贸商成“惊弓之鸟”" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-14@孟晚舟嫁了几次 孟晚舟在加拿大为什么被逮捕，事件前因后果(2)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-14@惴惴不安！孟晚舟事件再发酵，加拿大这些人慌了" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-14@美媒评孟晚舟被捕事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-14@美媒：顾问告诫特朗普不要干预华为CFO孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-14@驻加大使在加撰文谈孟晚舟事件：棱镜门了解一下" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-15@中国驻加大使：拘押孟晚舟事件是美国的政治追杀" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-15@外媒关注孟晚舟事件 日媒" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-15@孟晚舟事件后，加拿大鹅市值蒸发了近18亿美金！这些在华赚得盆钵体满的企业也紧张了" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-15@德国和瑞士网民热评孟晚舟女士被捕事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-16@孟晚舟事件始末 华为接班人还是孟晚舟吗？(2)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-17@外媒谈孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-17@孟晚舟事件启示：师美长技 建立中国域外法律适用体系" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-17@孟晚舟事件提供了分化瓦解五眼联盟的机会" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-18@加媒：孟晚舟事件后，加拿大汽车行业担心失去中企投资" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-18@外媒曝光孟晚舟事件背后阴谋：有组织有预谋的打压-更新中- CFi.CN 中财网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-19@受孟晚舟事件影响 英媒：中加自贸谈判已停滞 - 国际 - 中时" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-19@揭秘操控孟晚舟事件背后的神秘组织" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-20@从抢人大战到孟晚舟事件：2018年人力资源十大观察" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-20@华为接待外国记者，孟晚舟事件有解？外交部这样回应- CFi.CN 中财网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-20@直击华为媒体沟通会：回应孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-20@陈文：从法律层面解决“孟晚舟事件”的两种可能" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-21@IDC圈一周最HOT！IDCC2018完美落幕；华为孟晚舟事件持续发酵；76家企业被工信部纳入2018年“黑名单”" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-21@孟晚舟加拿大事件后首度发声：为陌生人的信任泪流满面" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-24@华为回应孟晚舟事件：公司业务不受个案影响" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-25@华为董事长回应孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-26@华为董事长梁华首度回应孟晚舟事件、5G市场、国际合作" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2018-12-26@华为董事长梁华首次公开谈孟晚舟事件：期待“晚舟早归航”，已获26个5G合同" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-01@“孟晚舟事件”&amp;“新椰岛精神”，用实力说话的椰岛2019将怎样搞事？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-02@华为5G有多牛，孟晚舟女士的事件给我们哪些感悟？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-04@加政府：孟晚舟事件后13名加拿大人在华被拘 8人已释放" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-04@加方" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-07@专家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-07@加代表团访华" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-07@复盘“孟晚舟事件”：华为为何如此克制？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-07@排队1小时，加价买不到！被孟晚舟事件连累的加拿大鹅，翻身了" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-07@法制日报评孟晚舟案" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-08@孟晚舟事件启示录：中企需警惕美国“长臂”法律陷阱" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-10@华为孟晚舟事件生涟漪：路透社称新证据曝光 - 我爱研发网 52RD.com - R&amp;D大本营" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-10@外交部就金正恩访华、孟晚舟事件等答记者问" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-15@加拿大政府换司法部长 “孟晚舟事件”或现转机" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-16@中国对加拿大动真格了 孟晚舟事件斗争还在继续" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-16@任正非回应孟晚舟事件 十分想念女儿 相信加方法院的判决 - A5创业网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-16@任正非回应孟晚舟事件：相信美加法律体系是开放的" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-16@任正非首次回应女儿孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-16@华为任正非首次谈及孟晚舟事件：十分想念女儿" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-16@孟晚舟事件    陆外交部：加方滥用司法程序" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-16@孟晚舟事件 陸將不惜一切逼迫加拿大讓步 - 國際 - 中時電子報" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-17@任正非回应“孟晚舟事件”：华为无资源无背景，今日危机十年前早有预料" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-17@任正非还原“孟晚舟事件”经过 称女儿很坚强" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-17@任正非首次回应孟晚舟事件：相信美加法律-华为,任正非,孟晚舟, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-17@美国务卿与加外长通话 涉及加毒贩和孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-18@任正非回应孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-18@关于中加关系、孟晚舟事件、加公民被扣押，驻加拿大大使回应 - 海外网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-18@孟晚舟事件后任正非首度接受国内媒体专访：对未来“胸有成竹” 五年后销售收入翻番" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-18@孟晚舟事件后，任正非首度接受国内媒体专访" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-18@驻加拿大大使谈孟晚舟事件：像是“被朋友背后捅刀”" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-21@任正非专访全文" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-21@任正非回应女儿孟晚舟事件：我相信美加的法律体系" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-21@任正非回应波兰子公司和孟晚舟事件：正走法律程序" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-21@任正非谈孟晚舟事件：原因需看美加司法部的沟通邮件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-22@华为cfo孟晚舟事件后续：美将正式向加方提出引渡 - A5创业网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-22@华为回应美国将引渡孟晚舟一事：注意到相关报道 密切关注事件进展" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-22@孟晚舟事件再起波澜！美国将向加拿大正式提出引渡孟晚舟" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-22@若美正式引渡孟晚舟，中方是否会报复？媒体六问孟晚舟事件，外交部一一回应" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-23@外交部再答孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-25@加拿大媒体栽赃“孟晚舟事件”蠢到家：常识都不顾了" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-25@孟晚舟向日经新闻投稿，回应华为牛津事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-25@被迫改口？加拿大驻华大使称收回对孟晚舟事件言论" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-27@一周外交观察：“孟晚舟事件”进入关键时期，加拿大驻华大使刚吐“真言”为何又收回？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-01-30@孟晚舟事件發酵A股低迷 法人：中長線買點到" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-02-25@华为孟晚舟事件最新进展 孟晚舟为什么会被扣押原因意味深长" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-02-25@华为梁华：不能说孟晚舟事件不是政治驱动 - A5创业网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-02-25@梁华：孟晚舟事件不会改变华为在加拿大的研发投入策略" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-03-01@华为外籍顾问评价孟晚舟事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-03-02@外交部发言人陆慷就孟晚舟事件发表谈话-孟晚舟,中国,加方,引渡,执意,陆慷,敦促,逮捕令,公民,女士," afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-03-04@外交部：“孟晚舟事件”是一起严重政治事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-03-04@孟晚舟起诉加政府-孟晚舟起诉加政府 孟晚周事件最新进展" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-03-04@爱陌客视角：从“孟晚舟事件”看国籍的重要性" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-03-08@刚刚，王毅回应孟晚舟案和华为事件！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-03-08@华为事件－孟晚舟引渡案听证 延期再战" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-03-12@中方：孟晚舟事件是极为恶劣的政治事件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-03-15@《國際社會》任正非：孟晚舟事件，加拿大也是受害者" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-03-15@任正非谈孟晚舟：被捕前她曾想离职 引渡事件后两人关系更加密切-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-03-15@任正非：女儿孟晚舟不会接班 两人的关系在引渡事件后更加亲密-直播-亿邦动力网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-03-15@任正非：女儿孟晚舟不会接班，两人的关系在引渡事件后更加亲密" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-03-16@任正非：孟晚舟被扣前正想换工作 加拿大事件让父女感情更深" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news/孟晚舟事件/2019-03-30@孟晚舟最新消息 2019年华为孟晚舟事件最新消息汇总" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spiders/news_spider.py" afterPath="$PROJECT_DIR$/spiders/news_spider.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/README (2).md" afterPath="$PROJECT_DIR$/ImporEventExtractor/README (2).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/doc_rank.py" afterPath="$PROJECT_DIR$/ImporEventExtractor/doc_rank.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181206" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181206" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181207" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181207" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181209" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181209" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181210" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181210" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181211" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181211" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181212" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181212" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181213" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181213" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181214" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181214" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181215" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181215" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181216" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181216" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181217" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181217" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181219" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181219" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181220" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181220" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181221" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181221" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181224" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181224" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20181226" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20181226" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190101" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190101" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190102" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190102" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190107" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190107" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190108" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190108" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190110" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190110" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190116" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190116" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190117" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190117" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190118" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190118" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190121" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190121" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190122" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190122" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190125" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190125" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190127" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190127" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190130" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190130" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190225" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190225" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190302" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190302" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190304" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190304" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190308" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190308" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190312" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190312" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190315" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190315" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190316" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190316" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/story/孟晚舟事件/20190330" afterPath="$PROJECT_DIR$/ImporEventExtractor/story/孟晚舟事件/20190330" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -644,7 +380,30 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="crawl.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news_spider.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spiders/news_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-300">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="e#142#155#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -689,6 +448,7 @@
         <option value="$PROJECT_DIR$/doc_rank.py" />
         <option value="$PROJECT_DIR$/news/timelines.txt" />
         <option value="$PROJECT_DIR$/news/important_doc.txt" />
+        <option value="$PROJECT_DIR$/spiders/news_spider.py" />
       </list>
     </option>
   </component>
@@ -713,40 +473,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ImportantEventExtractor" />
+              <option name="myItemId" value="KG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ImportantEventExtractor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ImportantEventExtractor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ImportantEventExtractor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
+              <option name="myItemId" value="KG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EventMonitor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\mengmeng-guo\PycharmProjects\KG" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\mengmeng-guo\PycharmProjects\KG\ImporEventExtractor" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.doc_rank">
     <configuration default="false" name="doc_rank" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -761,7 +515,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ImportantEventExtractor" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doc_rank.py" />
+      <option name="SCRIPT_NAME" value="D:\Users\mengmeng-guo\PycharmProjects\KG\ImporEventExtractor\doc_rank.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -945,13 +699,13 @@
     <frame x="-8" y="-8" width="1416" height="1026" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24290909" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24218182" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2809633" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1011,14 +765,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/timelines.txt" />
-    <entry file="file://$PROJECT_DIR$/news/孟晚舟事件/2018-12-06@【掘金冲锋号】孟晚舟被捕事件最新消息">
+    <entry file="file://$PROJECT_DIR$/ImporEventExtractor/news/孟晚舟事件/2018-12-06@【掘金冲锋号】孟晚舟被捕事件最新消息">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news/孟晚舟事件/2018-12-06@中兴事件历史重演：孟晚舟被捕或引出华为违反美国对伊朗出口禁令？ - OFweek物联网">
+    <entry file="file://$PROJECT_DIR$/ImporEventExtractor/news/孟晚舟事件/2018-12-06@中兴事件历史重演：孟晚舟被捕或引出华为违反美国对伊朗出口禁令？ - OFweek物联网">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
@@ -1035,25 +789,62 @@
     <entry file="file://$PROJECT_DIR$/story/20181206" />
     <entry file="file://$PROJECT_DIR$/story/20181207" />
     <entry file="file://$PROJECT_DIR$/story_bk/20151012" />
-    <entry file="file://$PROJECT_DIR$/news/important_doc.txt">
+    <entry file="file://$PROJECT_DIR$/ImporEventExtractor/news/important_doc.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc_rank.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-278">
-          <caret line="152" column="31" lean-forward="true" selection-start-line="152" selection-start-column="31" selection-end-line="152" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/timelines.txt">
+    <entry file="file://$PROJECT_DIR$/ImporEventExtractor/news/timelines.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImporEventExtractor/doc_rank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="152" column="31" lean-forward="true" selection-start-line="152" selection-start-column="31" selection-end-line="152" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/extract_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#45#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/news_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#142#155#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

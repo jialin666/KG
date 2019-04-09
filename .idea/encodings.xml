@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ImporEventExtractor/news/important_doc.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ImporEventExtractor/news/timelines.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ImporEventExtractor/news/孟晚舟事件/2018-12-06@【掘金冲锋号】孟晚舟被捕事件最新消息" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ImporEventExtractor/news/孟晚舟事件/2018-12-06@中兴事件历史重演：孟晚舟被捕或引出华为违反美国对伊朗出口禁令？ - OFweek物联网" charset="GBK" />
     <file url="file://$PROJECT_DIR$/bk/important_doc.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/bk/timelines.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/important_doc.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/news/important_doc.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/news/important_doc.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/news/timelines.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/news/孟晚舟事件/2018-12-06@【掘金冲锋号】孟晚舟被捕事件最新消息" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/news/孟晚舟事件/2018-12-06@中兴事件历史重演：孟晚舟被捕或引出华为违反美国对伊朗出口禁令？ - OFweek物联网" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/news/孟晚舟事件/2019-01-16＠孟晚舟事件    陆外交部：加方滥用司法程序" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/news/孟晚舟事件/2019-01-17＠任正非回应“孟晚舟事件”：华为无资源无背景，今日危机十年前早有预料" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/story/20181206" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/story/20181207" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/timelines.txt" charset="GBK" />
   </component>
 </project>
