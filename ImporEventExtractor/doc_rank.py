@@ -145,8 +145,8 @@ class Docrank:
     '''将同一时间的文章按照重要性进行排序'''
     def timeline(self, nodes_rank):
         # 时间线新闻纪录，即同一个时间只挑选重要度最高的新闻
-        f_story = open('news/timelines.txt', 'w+')
-        f_important = open('news/important_doc.txt', 'w+')
+        f_story = open('output/小米9/timelines.txt', 'w+')
+        f_important = open('output/小米9/important_doc.txt', 'w+')
         date_dict = {}
         timelines = {}
         print("-------将同一时间的文章按照重要性进行排序------")

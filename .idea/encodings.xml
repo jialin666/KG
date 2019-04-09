@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/ImporEventExtractor/news/important_doc.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/ImporEventExtractor/news/timelines.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/ImporEventExtractor/news/孟晚舟事件/2018-12-06@【掘金冲锋号】孟晚舟被捕事件最新消息" charset="GBK" />
     <file url="file://$PROJECT_DIR$/ImporEventExtractor/news/孟晚舟事件/2018-12-06@中兴事件历史重演：孟晚舟被捕或引出华为违反美国对伊朗出口禁令？ - OFweek物联网" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/bk/important_doc.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/bk/timelines.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ImporEventExtractor/output/孟晚舟/important_doc.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ImporEventExtractor/output/孟晚舟/timelines.txt" charset="GBK" />
   </component>
 </project>
