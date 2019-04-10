@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ImporEventExtractor/news/华为P30/2018-09-05@余承东透露华为P30手机,配置更高卖的更好" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ImporEventExtractor/news/华为P30/2018-12-12@疑似华为P30 Pro手机壳曝光 新旗舰或将搭载四摄双闪-站长之家" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ImporEventExtractor/news/华为P30/2018-12-13@华为P30 Pro曝光 氙气闪光灯加持" charset="GBK" />
     <file url="file://$PROJECT_DIR$/ImporEventExtractor/news/孟晚舟事件/2018-12-06@【掘金冲锋号】孟晚舟被捕事件最新消息" charset="GBK" />
     <file url="file://$PROJECT_DIR$/ImporEventExtractor/news/孟晚舟事件/2018-12-06@中兴事件历史重演：孟晚舟被捕或引出华为违反美国对伊朗出口禁令？ - OFweek物联网" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ImporEventExtractor/output/华为P30/important_doc.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ImporEventExtractor/output/华为P30/timelines.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/ImporEventExtractor/output/孟晚舟/important_doc.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/ImporEventExtractor/output/孟晚舟/timelines.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ImporEventExtractor/output/小米9/important_doc.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ImporEventExtractor/output/小米9/timelines.txt" charset="GBK" />
   </component>
 </project>

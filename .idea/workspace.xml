@@ -2,616 +2,424 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e29bdca6-6b0a-42dc-99f0-18c9dc18f67f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/crawl.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/items.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/middlewares.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2010-04-16＠中兴增加印度公司员工比例" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2012-06-13＠中兴关闭光伏逆变器业务！" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2016-04-19＠【中兴发布会】2016中兴新品发布会视频直播地址" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2016-04-19＠【中兴新品发布会】中兴手机新品发布会直播" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2016-04-20＠【中兴A910多少钱】中兴A910报价" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2017-10-19＠中兴的回国之路" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2017-10-23＠一手好牌打得稀烂 中兴为什么不行了-中兴手机,中兴亏损" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2017-12-15＠中兴通讯发布新一代ThingxCloud兴云,将共创互利共盈的商业格局" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-01-25＠被折叠的中兴，还能掰直吗？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-10＠中兴新手机渲染图曝光 上下都是刘海你买单么？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-12＠被忽视的实力派 双屏手机中兴天机Axon M评测" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-17＠美英封杀中兴 商务部回应：随时采取必要措施 - 产经要闻 - 中国产业经济信息网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-18＠拿中兴开刀，看来这次特朗普是玩真的了" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-20＠中兴这事儿，你怎么看？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-20＠失落的中兴要靠什么打翻身仗？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-21＠中兴通讯：美禁令对中兴通讯极不公平，不能接受" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-21＠国产芯何时可“中兴”？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-27＠中兴危局：生死90天" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-29＠中兴一石激千浪 中国公司担忧的还有另一个“定时炸弹”" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-29＠遭美封杀" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-07＠中兴已向BIS提交申请 最后的胜利往往在于再坚持一下的努力之中" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-08＠中兴" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-08＠中兴并非孤军 坚持努力赢得最后胜利" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-08＠以坚持努力赢最后胜利  中兴困局突围在望-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-08＠最后的胜利往往在于再坚持一下的努力之中 中兴将迎来曙光" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-09＠中兴手机在华停售？内部人称不会放弃本土市场 - 中兴 - IT之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-10＠中兴禁令以来的24个日夜" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-14＠中兴“复活记”" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-14＠中兴：那些不能打败我们的，只会让我们更加强大" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-14＠特朗普松口，刘鹤赴美，中兴问题能够因此解决吗？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-14＠环球时报社评：美恢复中兴业务的新决定值得欢迎" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-14＠突发！中兴复活？！" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-15＠中兴事件：谁受伤？谁获益？ -站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-15＠中兴通讯被纳入MSCI指数或迎转机 利好5G概念股" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-15＠美恢复中兴业务的新决定值得欢迎" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-21＠由特朗普推特引发中兴事件的三点思考" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-23＠中兴事件解决进入倒计时" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-23＠中兴通讯发布公告：A股继续停牌 控股股东增持-中兴,停牌,公告 -快科技(原驱动之家)--全球最新科技资讯专业发布平台" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-26＠中兴只是个案 提供独立富强“教科书”的是俄铝 - 华尔街见闻" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-28＠中兴不被制裁后 外媒：高通收购恩智浦交易将放行-中兴,高通,恩智浦,收购, -快科技(原驱动之家)--全球最新科技资讯专业发布平台" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-01＠争分夺秒，为中兴打开“生”的绿色通道-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-08＠中兴携中移动开展AI增强负载均衡验证 - 智东西" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-08＠中兴：被列入被执行人名单是商业纠纷 - 智东西" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-09＠中兴达成和解！顶住压力 决不言退" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-13＠中兴通讯复牌放量暴跌：H股狂泻逾41%，A股封死跌停板 - 华尔街见闻" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-19＠剧情反转！美国参议院恢复中兴销售禁令 新协议作废-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-29＠中兴总裁赵先明：禁令解除后很短时间将恢复正常" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-03＠中兴侵权Maxell案败诉，需赔4330万美元！华为也危险了！" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-04＠新掌门人奉命于危难之间 中兴如何复兴尚未知" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-13＠中兴事件即将落幕，港股大涨22%，A股涨停 - 华尔街见闻" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-13＠中兴即将全面解除禁令 明确三大发展方向" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-14＠中兴上半年亏损70亿元～90亿元  4亿美元托管资金已入美方托管账户 - 中经实时报 - 中国经营网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-14＠中兴通讯全面解禁！痛定思痛 再踏征途 - 手机中国" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-14＠正式重启！中兴通讯官宣“满怀信心再出发” - 华尔街见闻" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-17＠中兴终于重获新生,到底是怎么样曲折的故事" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-19＠中兴业务全面恢复中：已重启5G三阶段国测-中兴,5G -快科技(原驱动之家)--全球最新科技资讯专业发布平台" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-19＠中兴业务呈复苏迹象 连拿三大运营商5亿订单 - 互联网 - 科技讯" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-19＠麻省理工学院教授谈中兴事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-21＠“中兴事件”带来的蝴蝶效应 波及电容电阻市场" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-25＠中兴劫难：40家企业撇清关系 有公司放弃追责" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-08-05＠中兴复工，但终端业务订单已经锐减75% - 中兴,美国制裁,中兴通讯 - IT之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-08-20＠5G可以很亢奋 中兴通讯仍很虚脱" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-08-25＠俞敏洪痛批：阿里腾讯拼多多利用低趣味赚钱 中兴自称高科技公司是“打脸” - 华尔街见闻" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-08-27＠中兴通讯即将迎来一位Watchdog" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-08-30＠华为希望5G设备进入美国市场；中兴主营业务已恢复全面投入5G - 华尔街见闻" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-10-12＠引领前沿视觉科技 中兴天机Axon9 Pro国内发布" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-10-22＠“解禁”百日 中兴复苏几何？终端业务疲软-中兴通讯,5G" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-10-26＠中兴亏损72.6亿元 10亿美元罚款无法进行经营导致" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-11-01＠中兴为美国市场带来2款新机：Blade MAX 2s与Blade MAX View-中兴,美国 -快科技(原驱动之家)--科技改变未来" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-11-02＠中兴通讯解禁百日 复兴之路积于硅步" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-11-06＠“历劫”之后的中兴手机" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-11-06＠中兴通讯：5G不会迟到更不会缺席，公司Q2和Q3的毛利率已经开始回升 - 华尔街见闻" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-11-07＠5G反弹性行情确定，中兴通讯成十一月金股 - 华尔街见闻" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-11-09＠中兴视频会议T700S 2MX配ET702惊喜特价销售" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-11-09＠双.11必购中兴天机Axon9 Pro领衔视觉体验" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-11-12＠候选企业：中兴通讯股份有限公司" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-11-12＠年度诚意旗舰 中兴天机Axon9 Pro备受海外媒体赞誉-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-11-23＠中兴5G再下一城：与英电信公司JT Global签署5G网络协议 - 华尔街见闻" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-11-23＠中兴之后下一步 美国动员盟友弃用华为 - 华尔街见闻" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-12-02＠遭美禁令，中兴通讯多名高管离职！如今他们在从事这些工作……" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-12-06＠中兴通讯以19.88元开盘跌幅5.7% 今年亏损62亿" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-12-08＠[知识帖]快来看！中兴威虎最全面讲解" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-12-20＠中兴Axon M能够给你一些想不到的快乐" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-12-25＠中兴被执行人名单：中兴回应称是正常商业纠纷并非失信被执行 - A5创业网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-12-25＠中兴通讯被列入被执行人名单 执行标的超3000万-中兴,中兴通讯, -快科技(原驱动之家)--科技改变未来" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-12-25＠中兴通讯被法院列入被执行人名单 执行标的超3000万-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-12-25＠中兴通讯被法院列入被执行人名单 执行标的超3千万" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-12-25＠又陷纠纷？中兴上了被执行人名单 执行标的超3000万元" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-12-26＠中兴回应被列入被执行人名单；B站网页端上传视频上限升级至8GB；知乎发布2018 年度影单-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-12-26＠中兴年终钜惠开启 双旦狂欢不止一天-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-12-28＠【图文】值得购买 中兴大领主自动挡皮卡怎么样 试驾评测【汽车时代网】" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-01-04＠美国前参议员利伯曼正式注册为中兴“说客”" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-01-06＠张国宝：被中兴事件逼出来的两项成果" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-01-09＠5G手机来了 中兴宣布2019年上半年实现5G商用" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-01-12＠这款国产操作系统又获大奖，给中兴新支点点赞-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-01-15＠任正非罕见接受外媒采访：2019年营收增速将低于20% 不会遭遇中兴的命运 - 华尔街见闻" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-01-15＠华为、中兴等中企5G国际专利已超2400项-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-01-16＠中兴大桥顺利合拢" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-01-17＠中兴通讯新一届董事会候选人揭晓 九位董事拟全数留任" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-01-17＠美立法者提案对华为和中兴禁售芯片，华为旧案再被翻出-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-01＠二手中兴威虎相关车源" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-10＠首发价4888元 中兴AXON M 6+128G版降至1988元-中兴,AXON M, -快科技(原驱动之家)--科技改变未来" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-13＠中兴通讯2月13日快速上涨" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-13＠中兴通讯涨1.66%，创年度新高，报21.41元" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-13＠搭载骁龙855 中兴Axon 10 Pro通过ECC认证" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-14＠复盘中兴手机的2018：运营商成最后一根救命稻草" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-15＠中兴通讯2月15日快速上涨" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-15＠中兴通讯涨1.49%，创年度新高，报23.19元" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-15＠中国联通4G基站将扩容逾四成 华为、中兴等4厂商分食三百亿元大单" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-18＠5g手机什么时候上市 中兴5g手机定于2月25日发布" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-18＠中兴宣布将于2月25日推出首款5G旗舰机-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-18＠中兴宣布：2月25日发布新Axon手机" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-18＠中兴宣布：2月25日发布新Axon手机 支持5G网络--通信--中国经济新闻网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-18＠中兴手机官宣 New Axon 5G旗舰手机25日见！" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-18＠将发布首款5G旗舰机 中兴通讯涨5.20%" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-18＠快讯：中兴通讯H股大涨逾9% 下周发布首款5G旗舰手机" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-19＠中兴首款5G手机将亮相" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-19＠中兴首款5G旗舰手机将亮相MWC2019 5G商用触手可及" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-20＠70年积淀与奋进，中兴汽车逐梦之路永不止" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-20＠中兴T800-8MX视频会议终端，年后大促电询好价" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-20＠中兴通讯首席法务官申楠致董事、管理人员、员工、供应商以及业务合作伙伴的公开信" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-20＠王永康在华为 中兴调研时强调 深化全方位战略合作 共促西安高质量发展" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-21＠中兴Blade V10通过FCC认证：真机图曝光-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-21＠中兴ZXV10 M900 128A海量促销" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-21＠中兴通讯首席技术官：2019上半年中兴5G手机将商用" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-22＠中兴通讯2月22日快速上涨" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-22＠中兴通讯涨3.99%，创年度新高，报26.32元" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-24＠中国联通与中兴将联合发布中兴首款5G旗舰机" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-24＠中国联通与中兴将联合发布中兴首款5G旗舰机-直播-亿邦动力网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-25＠【图】中兴汽车全系车型交900抵4900" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-25＠中兴发布5G手机：中兴天机Axon 10 Pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-25＠中兴天机Axon 10 Pro正式发布！4800万5G旗舰来了" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-25＠中兴宣布 5G 旗舰商用，天机 Axon 10 Pro 亮相MWC2019 - 锋潮科技" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-25＠中兴徐峰：与全球大多运营商已经恢复了合作 - 中兴,5G,MWC2019 - IT之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-25＠中兴通讯2月25日快速回调" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-25＠中兴通讯徐峰：柔性折叠屏目前商用还不是太成熟 需看市场进一步反应" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-25＠中兴通讯联合Qualcomm Technologies演示基于5G端到端商用设备的5G在线业务" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-25＠中兴通讯首发 5G Common Core 商用版本，已与全球 30 家运营商开展 5G 合作-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-25＠中国联通与中兴将联合发布中兴首款5G旗舰机 家电网® HEA深度原创" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-25＠继华为后中兴发布5G手机 拟上半年在欧洲中国上市" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠5G卡位战硝烟弥漫 从MWC2019看中兴手机如何突围-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠5G时代重启“中兴之路” 中兴称与全球大运营商已恢复合作" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠MWC 2019：中兴发布旗下5G产品" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠MWC2019：专访中兴终端事业部CEO徐锋" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠专访中兴徐锋：5G时代要发挥端到端核心优势" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴5G旗舰商用天机Axon 10 Pro亮相MWC2019" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴5g手机什么时候出 中兴首款5G手机2019上半年上市" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴CEO徐子阳外媒访谈：商业模式是5G最大挑战" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴发布3200万AI自拍手机Blade V10" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴发布5G手机：中兴天机Axon 10 Pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴宣布5G商用 天机Axon10 Pro亮相MWC19" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴宣布5G旗舰商用 天机Axon 10 Pro亮相MWC2019" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴新机发布 网友：造型怎么那么眼熟 - 手机-新闻 - 机锋网-科技新闻，尽在机锋" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴通讯2月26日加速下跌" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴通讯2月26日快速上涨" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴通讯发布一站式IoT产品方案 打造智联生态" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴通讯开盘跌0.43%" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴通讯联合意大利Wind Tre、Open Fiber打通首个跨越地中海的5G智能手机视频通话" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴通讯：5G大幕将开启，中兴扬帆再起航" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴首款5G手机 MWC亮相" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠中兴首款5G手机Axon 10 Pro 5亮相 移动业务逐步恢复" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-26＠仅1.8mm？中兴Axon 10 Pro或成全球下巴最窄手机" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-27＠中兴商业连续三日收于年线之上，为近一年来首次" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-27＠中兴宣布上半年推出5G手机" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-27＠中兴终端CEO徐锋： 5G带来新机遇" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-27＠中兴终端CEO徐锋：利用5G换代的时机 实现弯道超车" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-27＠中兴终端CEO徐锋：利用5G换代的时机 实现弯道超车 - 手机中国" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-27＠中兴通讯2月27日快速反弹" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-27＠中兴通讯徐锋：5G终端领先商用源于技术的积累" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-27＠中兴：5G基础设施已完成研发" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-28＠中兴 ZXV10 M910全系列现货 电讯超低！-中兴 ZXV10 M910" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-28＠中兴5G手机亮相MWC2019 现场体验5G实时视频通话 - 手机中国" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-28＠中兴MWC现场5G手机在线视频播放演示（全文）" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-28＠中兴T800全系列全新现货西安 电询价格-中兴 ZXV10 T800" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-28＠中兴宣布5G旗舰商用 为消费者构建全场景的5G智慧体验" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-28＠中兴已经具备了完整的5G商用解决方案" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-28＠中兴通讯2月28日快速回调" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-28＠中兴通讯发布边缘计算服务器 实现神经网络推理能力" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-28＠中兴通讯发布边缘计算服务器 实现边缘人工智能" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-02-28＠致敬还是嫉妒，中兴高管点评华为折叠屏机型 - 我爱研发网 52RD.com - R&amp;D大本营" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-01＠5G首战告捷 MWC2019中兴5G终端备受好评" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-01＠中兴商业控股股东筹划重大事项 或致公司制权变更" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-01＠中兴天机Axon 10 Pro登陆两会 负责5G+4K直播（全文）" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-01＠交易提示：中兴商业临时停牌" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-02＠中兴Axon 10 Pro来袭，完美机身+骁龙855" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-04＠中兴5G手机应用革新，5G+4K移动直播全国两会-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-04＠中兴商业控股股东拟协议转让29%股份 实控人将变更" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-04＠中兴通讯3月4日快速上涨" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-04＠中兴通讯高开高走拉升5.05%报31.23元 成交41.56亿元" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-05＠中兴华达新三板挂牌上市2018年1-6月业绩亏损6万元" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-05＠中兴商业控股股东拟转让8091万股股份 公司实控人将发生变更" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-05＠中兴通讯(000063)融资融券信息(03" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-05＠中兴通讯向际鹰：技术积累让中兴为5G商用做好准备-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-05＠拿到国内首张5G SIM卡后，潘石屹晒出了中兴5G手机" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-06＠上海市崇明区中兴镇成立“乡村振兴中兴人发展联谊会”（图）,农业资讯,中国农业网新闻频道" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-06＠中兴ET312C 现货出售中 电讯最低价" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-06＠中兴商业：控股股东拟转让29%公司股份 受让方须同时参与北方重工司法重整" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-06＠中兴通讯：发布边缘计算服务器 中兴着眼5G长远布局" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-07＠5G大潮来临，中兴迎战的底气何在？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-07＠中兴翻盖折叠屏手机专利曝光：颜值更上一层楼-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-07＠中兴通讯：发布边缘计算产品，5G龙头又一重磅突破 - 华尔街见闻" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-08＠专利显示中兴翻盖式折叠屏手机或在研发中 屏幕超长 - 手机中国" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-08＠中兴可折叠手机 感觉像老式的翻盖手机的升级版" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-08＠中兴可折叠手机 翻盖式折叠或无法采用双电池" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-08＠中兴可折叠手机专利曝光：类似传统翻盖机-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-08＠中兴商业3月8日开盘涨停" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-08＠中兴商业再谋易主 经营缺亮点净利8000万徘徊10年" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-08＠中兴商业时隔5年再谋易主 经营缺亮点净利8000万徘徊10年" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-08＠中兴折叠屏智能手机专利曝光 类似翻盖机" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-08＠中兴通讯3月8日快速反弹" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-11＠中兴商业：控股股东拟转让29%公司股份 中兴商业涨停" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-11＠富瑞：升中兴目标价至27.65元 惟降评级至持有" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-11＠成都中兴T700S-4MX视频会议通讯设备 -中兴 ZXV10 T700S" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-11＠潘石屹晒出中兴首部5G手机 还调侃了好友一番 - OFweek光通讯网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-12＠3200万自拍神器！3月19日中兴Blade V10正式开售" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-12＠中兴 Blade V10 已开启预约 搭载3200万前置摄像头" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-12＠中兴Blade V10开启预约：3200万前摄" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-12＠中兴商业3月12日开盘涨停" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-12＠中兴商业3月12日快速回调" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-12＠中兴商业3月12日打开涨停" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-12＠中兴通讯控股股东拟减持不超3% 股价已反弹至“禁令”前水平" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-12＠中兴通讯：控股股东拟以持有的本公司股份参与认购基金份额" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-12＠体验空中自拍的感觉 中兴Blade V10发布" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-13＠中兴通讯3月13日盘中跌幅达5%" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-13＠中兴通讯走低4% 大股东拟减持套现" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-13＠信息科技：中兴拓展全球30多国家 荐3股" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-13＠富瑞：中兴减持引发估值忧虑 换购ETF可分散风险" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-14＠2019中兴捧月高校赛事节全球启动" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-14＠中兴Blade V10：Redmi之外的另一选择" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-14＠中兴商业(000715)龙虎榜解读（03" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-14＠渐变美感 千元自拍神器中兴Blade V10图赏" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-15＠5G赛场“杆位”争夺，中兴手机先发制人" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-16＠2019中兴恒荣耀盛典之夜盛大开启 目光聚焦北京" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-17＠中兴侧滑盖新机曝光：高屏占比+屏幕指纹" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-17＠中兴夹缝侧滑新手机：前后无开孔 黑的浑然一体" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-18＠中兴M900全系列MCU 吉林现货促销中-中兴 ZXV10 M900" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-18＠中兴全面屏新机曝光：侧滑盖引领潮流" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-18＠中兴天机axon v全面屏设计：前置摄像头在机身右侧" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-18＠中兴高管：印度市场增长迅速，愿意接受任何产品测试" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-18＠网曝中兴将推出滑盖5G手机 渲染图遭曝光" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-19＠【图】一年免息千元开走 中兴汽车金融礼放送" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-19＠一年免息千元开走 中兴汽车金融礼大放送" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-19＠世界知识产权组织" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-19＠中兴AxonS侧滑盖手机概念图曝光 惊艳" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-19＠中兴通讯5G应用更进一步 5G手机助力两会直播报道" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-19＠中兴通讯5G手机助力两会直播报道 5G实战告捷" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-19＠中兴通讯与南京公安共同打造 5G 公共安全行业应用示范-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-19＠中兴通讯：终止向深投控转让土地及物业资产" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-19＠侧面「刘海」设计，中兴的全面屏新机有点奇怪 - 华尔街见闻" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-19＠新旧动能转换现场观摩｜中兴汽车日照生产基地年底投产，年产5万辆整车" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-19＠智能科技把审计机构亚太会计师事务所更换为中兴华会计师事务所" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠5G进展、公司财务状况、科创板意向 中兴通讯股东大会释放了哪些关键点？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠中兴董事长：积极把握5G 坚持全球化不动摇" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠中兴通讯5G手机助力两会直播报道 5G实战告捷 - 讯石光通讯网-做光通讯行业的充电站!" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠中兴通讯临时股东大会：已准备好迎接5G商用-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠中兴通讯将对子公司努比亚是否挂牌科创板进行研究" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠中兴通讯已与全球30家运营商开展5G合作-公告解读-上市公司-上海证券报·中国证券网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠中兴通讯总裁徐子阳：5G手机二季度商用 运营商5G合作达30家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠中兴通讯总裁徐子阳： 5G手机二季度商用，运营商5G合作达30家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠中兴通讯总裁徐子阳：核心芯片自主研发 加强5G战略投入 - 通信技术 - 5G - cnBeta.COM" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠中兴通讯李自学：聚焦5G持续加大研发-新闻-上海证券报·中国证券网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠中兴通讯股东会最全实录：关于海外业务恢复程度、终端业务地位、资金情况和大股东态度，一次性说清" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠中兴通讯：5G手机二季度将率先在欧洲和中国上市" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠中兴通讯：5G手机二季度率先在欧洲和中国上市" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠中兴通讯：5G手机二季度率先在欧洲和中国上市 - 中兴,5G,Axon 10 Pro - IT之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠北京中兴国创股权投资有限公司融资常识介绍" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠最新！中兴之家2号楼清楼工作正在进行时！" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠美国制裁致业务受损 中兴通讯2019年仍处于恢复期" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠证券时报电子报实时通过手机APP、网站免费阅读重大财经新闻资讯及上市公司公告" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-20＠震惊！这才是中兴5G的真正实力！ - OFweek光通讯网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-21＠[年报]中兴商业" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-21＠“融合演进 智慧广电”中兴通讯助阵2019中国国际广电展" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-21＠【图解分红送配】中兴商业2018年度拟10派0.8元" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-21＠中兴5G手机上半年将上市 公司已与全球30家运营商开展5G合作" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-21＠中兴商业(000715.SZ)2018年度净利润升6.75%至9028.71万元 拟10派0.8元" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-21＠中兴在人民日报刊发整版广告：金融新引擎 行业新动能（图）" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-21＠中兴展翼启航 发力5G主航道形成优势竞争力" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-21＠中兴通讯总裁徐子阳：已与全球30家运营商开展5G合作" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-21＠中兴通讯股份有限公司二○一九年第一次临时股东大会决议公 告" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-21＠中兴通讯：只待5G商用发令枪响    已与30个运营商展开5G合作" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-21＠全球30家运营商与中兴通讯合作5G" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-22＠一图读财报：中兴商业2018年度营业收入25.51亿元" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-22＠中兴5G手机将在2019年商用 率先登陆欧洲和中国市场-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-22＠中兴Blade V10上手：3200万像素前置摄像头" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-22＠中兴商业：辽宁方大集团拟受让公司控股股东所持29%股份" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-22＠中兴通讯与哈尔滨交通集团签署战略合作协议" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-22＠中兴通讯发布智能视频云解决方案 携手合作伙伴共筑政府行业视频新生态" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-22＠中兴通讯召开临时股东大会：做好充分准备 迎接5G商用" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-22＠江苏省住建厅集中通报8起安全事故 中铁二局、中兴建设上黑榜" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-22＠热烈欢迎湖北兴山县县长曹宏伟一行参观考察中兴通集团 - 文化 - 为民网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-22＠股票配资牛米网：5G来袭，中兴：已与全球30家运营商展开5协作" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-23＠三一重工与中兴通讯达成合作，巨头联手打造工业5G高地 - 行业动态 - 资讯中心 - 中国工程机械信息网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-23＠中国移动蜂窝物联网连接量今年将超7.8亿；三星目标2022年占据20%设备市场份额；中兴已与30家运营商开展5G合作" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-24＠一周外交观察：华为中兴之后，美国又将制裁2家中国公司，这次是什么原因？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-24＠南京邮电大学王宗荣副书记出席2019中兴通讯产学研合作论坛" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-25＠中兴能源磷酸铁锂电池储能集装箱采购项目招标公告 - 索比光伏网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-25＠国企改革新范本：辽宁方大集团接盘中兴商业一举三赢" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-25＠小身材亦有大乾坤：中兴5G手机美的“格局”艺术" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-25＠美不胜收，宛在珞珈山！湖北移动携手中兴通讯助力武汉大学樱花5G高清直播" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-26＠2018年PCT国际专利申请量全球排名公布！中兴通讯连续第九年位居前五" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-26＠2018年国际专利申请排名发布：中兴以2080件排名第五" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-26＠百色中兴环保产业园项目落户田阳 总投资15亿元" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-27＠[公告]中兴通讯" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-27＠一线｜中兴通讯去年亏损69.83亿元 今年一季度将扭亏为盈" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-27＠中兴通讯2018年财报：营收、净利出现5年来最大降幅 - 经济观察网 － 专业财经新闻网站" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-27＠北京中兴国创股权投资有限有限公司适应互联网+时代潮流" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-27＠华为中兴考虑在印度开设电信设备制造工厂" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-28＠5G概念板块“涨”声又起！中兴通讯成人气核心 多只个股掀涨停潮" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-28＠【虎嗅早报】中兴2018年亏损69.83亿元；董明珠：员工不能为房子愁眉苦脸" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-28＠上海中兴2018年度营收大幅下降36.78%  净利润" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-28＠中兴通讯2018年营收855亿元 将强化5G研发投入-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-28＠中兴通讯发布2019年第一季度业绩预告 净利最高12亿元" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-28＠中兴通讯巨亏70亿 5G能否撑起他的未来？ - OFweek物联网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-28＠中兴通讯强化5G研发投入 Q119预计净利8~12亿元 - 讯石光通讯网-做光通讯行业的充电站!" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-28＠中兴通讯现19.36亿元大宗交易，折价近20%" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-28＠亏损69.84亿元 高管薪酬大幅下降！中兴通讯业绩仍释放向好信号" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-28＠直接签约2800万！阿根廷力挺中兴：从未怀疑，欢迎来建设光缆！" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-28＠阿根廷财政部副部长拜访中兴、火币等企业签下多项合作协议" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-29＠中兴商业3月29日快速上涨" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-29＠中兴商业3月29日快速回调" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-29＠中兴商业实控权拟变更 方大集团“援手”北大重工" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-29＠中兴通讯控股股东减持公司1.92%股份" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-29＠中兴通讯跌逾4%" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-29＠刚涨停就82折甩卖" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-29＠安集微电子冲科创板 背后股东现财政部、中烟、中兴" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-29＠澳大利亚前总理：一直努力想把华为中兴纳入5G建设" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-30＠美重罚后 中兴摆脱巨亏 赚55亿 - 话题观察" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-03-31＠中兴大领主售价多少" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-01＠中兴商业4月1日快速反弹" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-01＠方大集团拟入主中兴商业" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-02＠DTS+Hi-Fi，中兴天机Axon 10 Pro成就手机天籁音效" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-02＠中兴Axon 10 Pro安兔兔跑分曝光！383623分领跑榜单" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-02＠中兴M900全系列现货促销 电询具体价格-中兴 ZXV10 M900" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-02＠中兴T800 4MEX现货西安 电询具体价格-中兴 ZXV10 T800" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-02＠中兴T800 8MEX现货西安 电询具体价格-中兴 ZXV10 T800" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-02＠安兔兔跑分创新高，中兴5G手机打造越用越快的极致体验" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-02＠证券时报电子报实时通过手机APP、网站免费阅读重大财经新闻资讯及上市公司公告" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-03＠“敢死队”大佬被罚4700万！上周刚打板中兴通讯" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-03＠三一重工和中兴通讯签署战略协议-直播-亿邦动力网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-03＠三一重工和中兴通讯签署战略合作协议 5G助力智能制造转型升级" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-03＠中兴Axon 10 Pro安兔兔跑分曝光 跑分高达383623分" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-03＠中兴商业：控股股东股权转让获辽宁省国资委同意" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-03＠中兴高达“携手·融合”合作伙伴大会暨新品发布会在深圳东海朗庭酒店隆重举办" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-03＠营收及净利大幅下跌，中兴股票却涨停？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-04＠GPLP投融资：中兴华康获5000万 博脑医疗获数千万" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-04＠Orange与中兴通讯在西班牙完成欧洲首个100% 5G语音与数据通话" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-04＠Orange与中兴通讯完成欧洲首个100% 5G通话 包括语音和数据-IT商业新闻网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-04＠Orange与中兴通讯完成欧洲首个SA模式100% 5G通话" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-04＠[知识帖]秒懂！中兴威虎" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-04＠中兴再出“神机”搭载骁龙855，安兔兔跑分超过小米9！" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-04＠中兴商业4月4日快速上涨" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-04＠中兴通讯(000063)融资融券信息(04" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-04＠中兴通讯04月03日深股通减持174.36万股" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-04＠中兴通讯：融资净买入829.64万元，融资余额37.67亿元（04" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-04＠信息科技：中兴和华为2019年Q1淡季不淡 荐10股" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-04＠信息科技：中兴拨云见日 荐5股" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-04＠外交部回应美国一知名大学停止与华为中兴合作" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-04＠打造5G高地！三一重工和中兴携手推动智能制造数字化转型" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-04＠雄安首场5G直播报道 中兴5G旗舰再度建功" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-05＠年报惨淡季报喜人 中兴通讯熬过至暗时刻" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-05＠新晚报数字报" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-05＠让湖北茶香飘海外 -中兴食品茶叶出口全省第一的启示" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-05＠里程碑！中兴与法国电信运营商合作完成欧洲首次5G通话" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-06＠麻省理工终止与华为、中兴合作" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-07＠三星、中兴加持 探针卡量产 泰硕旺硅 衝刺获利" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-07＠下月中旬 中兴大道凤林西路口增设左转与调头车道" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-07＠中兴通讯(000063)2018年年报点评" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-08＠中兴通讯(000063)融资融券信息(04" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-08＠中兴通讯强化5G研发投入 一季度预计净利8亿至12亿元 - 新闻 - 中国产业经济信息网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2019-04-08＠中兴通讯：融资净偿还1.32亿元，两市排名第五（04" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-06＠【掘金冲锋号】孟晚舟被捕事件最新消息" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-06＠中兴事件历史重演：孟晚舟被捕或引出华为违反美国对伊朗出口禁令？ - OFweek物联网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-06＠华为回应孟晚舟事件：美加法律体系最终给出公正结论" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-06＠华为董事陈黎芳回应CFO孟晚舟事件：相信加拿大和美国法律体系给出公正结论" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-06＠受任正非女儿孟晚舟事件影响 股市通讯股集体低开" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-06＠商务部回应孟晚舟被捕事件：尚未掌握相关情况" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-06＠孟晚舟事件加剧市场恐慌情绪 今晚小非农登场" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-06＠孟晚舟事件表明必须放弃幻想做持久战准备" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-06＠孟晚舟保释听证将举行 华为孟晚舟被捕事件回顾及最新消息" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-06＠谨慎对待华为孟晚舟事件的发酵效应" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-06＠﻿孟晚舟事件背后有猫腻？ 华为高层回应：并无任何不当行为" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-07＠中方将对孟晚舟事件采取报复行为？外交部回应" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-07＠华为孟晚舟被捕事件，给激光圈带来什么样的启示？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-07＠深圳市政府就孟晚舟事件声明" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-09＠孟晚舟被捕事件未完 梁华将暂代华为CFO" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-10＠【中国测绘网】任正非接受外媒采访，回应了孟晚舟事件，相信正义会得到伸张" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-10＠华为孟晚舟被拘事件持续发酵 加拿大担忧中国报复" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-10＠受到华为孟晚舟事件影响加拿大鹅两天跌去15％" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-10＠孟晚舟事件外交部两出重手" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-10＠孟晚舟事件：加拿大在中美间“走钢丝”" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-11＠关于孟晚舟事件，加拿大人对美国很恼火" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-11＠加拿大鹅-加拿大鹅因孟晚舟事件股价暴跌 加拿大企业波及严重 - 美股 - 至诚财经网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-11＠加拿大鹅暴跌波司登暴涨 孟晚舟事件导致加拿大鹅被华人抵制" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-11＠因华为孟晚舟事件加拿大鹅跌倒，波司登吃饱" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-11＠孟晚舟为什么不姓任而姓孟 孟晚舟被捕事件和张首晟去世有关系吗？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-11＠孟晚舟事件重挫加企“加拿大鹅”" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-11＠环球时报谈孟晚舟事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠《国际产业》介入孟晚舟事件？川普：若有利于美国就会做" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠华为回应孟晚舟获保释：期待美加及时、公正结束这一事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠华为回应孟晚舟获准保释：期待美加及时公正结束此事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠华为孟晚舟事件启示：中美贸易摩擦是发展使然" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠华为：CFO孟晚舟获保释 期待及时、公正结束该事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠华为：CFO孟晚舟获保释 期待及时公正结束这一事件-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠华为：法庭同意孟晚舟保释 期待及时、公正结束该事件-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠听证会按时举行 孟晚舟被捕事件最新进展" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠外交部回应加拿大前外交官康明凯被拘事件-更新中- CFi.CN 中财网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠孟晚舟已回到家人身边 就此事件她这样说……" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠孟晚舟获保释  华为：期待及时公正结束这一事件 - A5创业网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠孟晚舟获保释 华为" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠孟晚舟获保释 华为：期待美加及时、公正结束这一事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠孟晚舟获保释，华为：我们期待美、加政府能及时、公正地结束这一事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠孟晚舟获保释，华为：期待美加及时公正结束此事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠孟晚舟获保释，华为：期待美加政府公正结束这一事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠孟晚舟获准保释 华为" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠孟晚舟被保释后发声：已回到家人身边！特朗普或干预该事件，一切才刚刚开始！ - 中国日报网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠孟晚舟被准保释 华为称期待加美早日结束这一事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠特朗普对孟晚舟事件表态：必要时干预 怎么干预？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠特朗普就孟晚舟事件宣称：若有助与中国贸易谈判 他将会干预" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠特朗普就孟晚舟事件首表态" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠特朗普首次就孟晚舟事件表态 若是有这个好处他就会介入" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠特朗普首次就孟晚舟事件表态：如有利于美国，肯定会干预" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-12＠贼喊捉贼！美国或就孟晚舟事件发布赴华旅行警告" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-13＠两加拿大人被拘与孟晚舟事件有关？外交部回应" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-13＠全球媒体对孟晚舟事件都怎么说？他们也不能忍！" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-13＠加拿大一名伐木工人到驻加使馆 为孟晚舟事件致歉" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-13＠华为CFO孟晚舟事件：中国力量让世界忌惮-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-13＠境外媒体认为：孟晚舟事件是美对华严重挑衅" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-13＠孟晚舟事件后续：美国务院提醒公民没事少去中国“胡溜达”" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-13＠孟晚舟事件始末及后续 孟晚舟为什么不信任美国人？(2)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-13＠孟晚舟事件始末及后续 孟晚舟为什么不信任美国人？(3)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-13＠孟晚舟事件折射美国焦虑 - 时论广场" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-13＠孟晚舟事件是否会影响中加经贸关系或中美贸易战？商务部回应" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-13＠孟晚舟事件是否会影响中美贸易战？商务部回应" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-13＠孟晚舟事件最新后续 康明凯之后斯帕弗被拘留这人曾见过金正恩" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-13＠特朗普表态后，加外长称美国不应将孟晚舟事件的法律程序政治化" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-13＠美国律师：孟晚舟事件具有政治动机 不符合引渡条件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-14＠【分析】华为事件引爆5G商机大掠夺；受孟晚舟事件影响,华为在日本供应商的订单被搁置；特朗普干预孟晚舟案或将加速中美达成协议" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-14＠中国驻加拿大大使：孟晚舟事件是美国有预谋的政治追杀！" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-14＠加媒评孟晚舟被捕事件：美国强盗手段威胁国际法治" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-14＠加拿大就孟晚舟事件警告特朗普 孟晚舟事件始末回顾" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-14＠孟晚舟事件后，加拿大农贸商成“惊弓之鸟”" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-14＠孟晚舟嫁了几次 孟晚舟在加拿大为什么被逮捕，事件前因后果(2)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-14＠惴惴不安！孟晚舟事件再发酵，加拿大这些人慌了" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-14＠美媒评孟晚舟被捕事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-14＠美媒：顾问告诫特朗普不要干预华为CFO孟晚舟事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-14＠驻加大使在加撰文谈孟晚舟事件：棱镜门了解一下" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-15＠中国驻加大使：拘押孟晚舟事件是美国的政治追杀" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-15＠外媒关注孟晚舟事件 日媒" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-15＠孟晚舟事件后，加拿大鹅市值蒸发了近18亿美金！这些在华赚得盆钵体满的企业也紧张了" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-15＠德国和瑞士网民热评孟晚舟女士被捕事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-16＠孟晚舟事件始末 华为接班人还是孟晚舟吗？(2)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-17＠外媒谈孟晚舟事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-17＠孟晚舟事件启示：师美长技 建立中国域外法律适用体系" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-17＠孟晚舟事件提供了分化瓦解五眼联盟的机会" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-18＠加媒：孟晚舟事件后，加拿大汽车行业担心失去中企投资" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-18＠外媒曝光孟晚舟事件背后阴谋：有组织有预谋的打压-更新中- CFi.CN 中财网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-19＠受孟晚舟事件影响 英媒：中加自贸谈判已停滞 - 国际 - 中时" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-19＠揭秘操控孟晚舟事件背后的神秘组织" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-20＠从抢人大战到孟晚舟事件：2018年人力资源十大观察" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-20＠华为接待外国记者，孟晚舟事件有解？外交部这样回应- CFi.CN 中财网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-20＠直击华为媒体沟通会：回应孟晚舟事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-20＠陈文：从法律层面解决“孟晚舟事件”的两种可能" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-21＠IDC圈一周最HOT！IDCC2018完美落幕；华为孟晚舟事件持续发酵；76家企业被工信部纳入2018年“黑名单”" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-21＠孟晚舟加拿大事件后首度发声：为陌生人的信任泪流满面" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-24＠华为回应孟晚舟事件：公司业务不受个案影响" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-25＠华为董事长回应孟晚舟事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-26＠华为董事长梁华首度回应孟晚舟事件、5G市场、国际合作" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2018-12-26＠华为董事长梁华首次公开谈孟晚舟事件：期待“晚舟早归航”，已获26个5G合同" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-01＠“孟晚舟事件”&amp;“新椰岛精神”，用实力说话的椰岛2019将怎样搞事？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-02＠华为5G有多牛，孟晚舟女士的事件给我们哪些感悟？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-04＠加政府：孟晚舟事件后13名加拿大人在华被拘 8人已释放" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-04＠加方" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-07＠专家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-07＠加代表团访华" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-07＠复盘“孟晚舟事件”：华为为何如此克制？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-07＠排队1小时，加价买不到！被孟晚舟事件连累的加拿大鹅，翻身了" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-07＠法制日报评孟晚舟案" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-08＠孟晚舟事件启示录：中企需警惕美国“长臂”法律陷阱" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-10＠华为孟晚舟事件生涟漪：路透社称新证据曝光 - 我爱研发网 52RD.com - R&amp;D大本营" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-10＠外交部就金正恩访华、孟晚舟事件等答记者问" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-15＠加拿大政府换司法部长 “孟晚舟事件”或现转机" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-16＠中国对加拿大动真格了 孟晚舟事件斗争还在继续" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-16＠任正非回应孟晚舟事件 十分想念女儿 相信加方法院的判决 - A5创业网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-16＠任正非回应孟晚舟事件：相信美加法律体系是开放的" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-16＠任正非首次回应女儿孟晚舟事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-16＠华为任正非首次谈及孟晚舟事件：十分想念女儿" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-16＠孟晚舟事件    陆外交部：加方滥用司法程序" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-16＠孟晚舟事件 陸將不惜一切逼迫加拿大讓步 - 國際 - 中時電子報" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-17＠任正非回应“孟晚舟事件”：华为无资源无背景，今日危机十年前早有预料" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-17＠任正非还原“孟晚舟事件”经过 称女儿很坚强" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-17＠任正非首次回应孟晚舟事件：相信美加法律-华为,任正非,孟晚舟, -快科技(原驱动之家)--科技改变未来" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-17＠美国务卿与加外长通话 涉及加毒贩和孟晚舟事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-18＠任正非回应孟晚舟事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-18＠关于中加关系、孟晚舟事件、加公民被扣押，驻加拿大大使回应 - 海外网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-18＠孟晚舟事件后任正非首度接受国内媒体专访：对未来“胸有成竹” 五年后销售收入翻番" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-18＠孟晚舟事件后，任正非首度接受国内媒体专访" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-18＠驻加拿大大使谈孟晚舟事件：像是“被朋友背后捅刀”" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-21＠任正非专访全文" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-21＠任正非回应女儿孟晚舟事件：我相信美加的法律体系" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-21＠任正非回应波兰子公司和孟晚舟事件：正走法律程序" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-21＠任正非谈孟晚舟事件：原因需看美加司法部的沟通邮件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-22＠华为cfo孟晚舟事件后续：美将正式向加方提出引渡 - A5创业网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-22＠华为回应美国将引渡孟晚舟一事：注意到相关报道 密切关注事件进展" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-22＠孟晚舟事件再起波澜！美国将向加拿大正式提出引渡孟晚舟" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-22＠若美正式引渡孟晚舟，中方是否会报复？媒体六问孟晚舟事件，外交部一一回应" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-23＠外交部再答孟晚舟事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-25＠加拿大媒体栽赃“孟晚舟事件”蠢到家：常识都不顾了" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-25＠孟晚舟向日经新闻投稿，回应华为牛津事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-25＠被迫改口？加拿大驻华大使称收回对孟晚舟事件言论" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-27＠一周外交观察：“孟晚舟事件”进入关键时期，加拿大驻华大使刚吐“真言”为何又收回？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-01-30＠孟晚舟事件發酵A股低迷 法人：中長線買點到" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-02-25＠华为孟晚舟事件最新进展 孟晚舟为什么会被扣押原因意味深长" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-02-25＠华为梁华：不能说孟晚舟事件不是政治驱动 - A5创业网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-02-25＠梁华：孟晚舟事件不会改变华为在加拿大的研发投入策略" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-03-01＠华为外籍顾问评价孟晚舟事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-03-02＠外交部发言人陆慷就孟晚舟事件发表谈话-孟晚舟,中国,加方,引渡,执意,陆慷,敦促,逮捕令,公民,女士," afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-03-04＠外交部：“孟晚舟事件”是一起严重政治事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-03-04＠孟晚舟起诉加政府-孟晚舟起诉加政府 孟晚周事件最新进展" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-03-04＠爱陌客视角：从“孟晚舟事件”看国籍的重要性" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-03-08＠刚刚，王毅回应孟晚舟案和华为事件！" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-03-08＠华为事件－孟晚舟引渡案听证 延期再战" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-03-12＠中方：孟晚舟事件是极为恶劣的政治事件" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-03-15＠《國際社會》任正非：孟晚舟事件，加拿大也是受害者" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-03-15＠任正非谈孟晚舟：被捕前她曾想离职 引渡事件后两人关系更加密切-站长之家" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-03-15＠任正非：女儿孟晚舟不会接班 两人的关系在引渡事件后更加亲密-直播-亿邦动力网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-03-15＠任正非：女儿孟晚舟不会接班，两人的关系在引渡事件后更加亲密" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-03-16＠任正非：孟晚舟被扣前正想换工作 加拿大事件让父女感情更深" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/孟晚舟事件/2019-03-30＠孟晚舟最新消息 2019年华为孟晚舟事件最新消息汇总" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2016-11-03＠江歌遇害案 听听法律人怎么说？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2016-11-07＠“在日留学生江歌被杀案”凶手会被判处死刑吗？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2016-11-07＠东京女留学生被害案始末原因 江歌资料生前照片(图)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2016-11-24＠中国女留学生江歌被杀案嫌疑人被日本警方再次逮捕" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2016-12-15＠留日女学生江歌被害案最新消息：嫌疑人被正式起诉" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-08-15＠中国女留学生江歌日本被害案：将于年底庭审，母亲网上讨公道" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-12＠在日女生遇害案：江歌母亲应该原谅女儿的室友吗？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-13＠中国女留学生江歌在日本遇害 好友首度透露遇害案细节" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-13＠江歌案中的刘鑫现在怎么样？刘鑫现状 留学生江歌遇害案全回顾" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-13＠江歌遇害案中，刘鑫这个巨婴是怎么炼成的？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-13＠江歌遇害案最新进展：12月11日开庭 刘鑫前男友嫌犯陈世峰资料起底" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-14＠凶手陈世峰什么时候判决？江歌日本遇害案件东京开庭审理时间" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-14＠刘鑫江歌案事件始末梳理 刘鑫描述江歌被害案事发过程" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-14＠我看了江歌被害案的案卷" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-14＠我看了江歌被害案的案卷：江歌妈妈有可能一辈子都不会原谅刘鑫！" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-14＠江歌东京遇害案理性分析一：刘鑫是否犯有间接故意杀人罪" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-14＠江歌案拷问情理法冲突，受益人是否有补偿被害人义务" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-14＠江歌被害案：人性与道义纠葛背后有多少标准答案 - 今报网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-14＠江歌遇害案进展：12月11日至15日将在东京公开审判" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-14＠江歌遇害案进展：犯罪嫌疑人陈世峰视频被曝光" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-14＠江歌遇害案：呼吁三十万人联名杀人，江歌妈妈的残忍，才是人间最后的温情" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-14＠法制网：江歌遇害案，室友刘鑫到底有没有责任" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-15＠“江歌遇害案”中刘某应当承担什么法律责任？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-15＠专家谈江歌遇害案：中日两国均有刑事管辖权" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-15＠东京留学生江歌遇害案：尸检照片很悲惨 陈世峰有备而来" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-15＠江歌日本遇害案结果怎样会如何审判？刘鑫陈世峰等7疑点待解" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-15＠江歌被害案，請等等真相 別輕言輿論審判" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-15＠江歌遇害案进展 签名请愿活动会影响判决吗？-中新网辽宁频道" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-15＠江歌遇害案：中国司法机关对嫌疑人享有追诉权" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-15＠法学考研党，如何正确看待江歌被害案？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-15＠理性分析江歌日本东京遇害案事件始末：等真相别轻言舆论审判" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-15＠评论：“江歌被害案”何以成为“江歌刘鑫案”？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-16＠中国新闻周刊：当“江歌遇害案”变成“江歌刘鑫案”" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-16＠江歌遇害一案，凶手会怎么判刑？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-16＠江歌遇害案下月开庭  声援信件从全国寄来" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-16＠盘点：“江歌遇害案”的事件始末和多方观点" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-19＠江歌遇害案：孩子，善良是做人原则，但是你必须学会这12条自我保护法则" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-20＠虎爸小悦读-江歌遇害案启示：你的善良，必须有点锋芒！" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-11-21＠江歌遇害案进展刘鑫应该受到惩罚吗 一段来自陈世峰前女友的自述" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-12-11＠中国女留学生江歌被杀案在东京开庭审理 妈妈含泪出庭" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-12-11＠中国留学生江歌遇害案首开庭：被告否认起诉内容 - 原创 - 资讯 - 海外网" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-12-15＠江歌被杀案开庭：为陈世峰辩护的律师错了么？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-12-16＠中国留学生被害抛弃案在澳宣判 凶手被判46年 江歌案陈世峰会判死刑吗？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2017-12-19＠日对2名死囚执行死刑 江歌案凶手陈世峰会被判死刑吗？" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/江歌被害案/2019-03-27＠临沂一男子辱骂“留日女生遇害案”死者江歌被行拘15天" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/pipelines.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/spiders/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/spiders/extract_news.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/spiders/handle_html.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/spiders/news_spider.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/spiders/utils.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-18＠谁能救得了中兴？" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-18＠谁能救得了中兴？" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-20＠中兴被暴露的内部文件到底说了啥？" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-20＠中兴被暴露的内部文件到底说了啥？" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-21＠中兴危机能否带来“中兴”" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-21＠中兴危机能否带来“中兴”" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-23＠中兴生死劫" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-23＠中兴生死劫" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-23＠兴全基金亏15亿中兴惹的祸？为何说中兴难成翻版俄铝" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-23＠兴全基金亏15亿中兴惹的祸？为何说中兴难成翻版俄铝" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-25＠来，我告诉你一个真正的中兴通讯" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-25＠来，我告诉你一个真正的中兴通讯" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-26＠中美开始谈判，中兴会不会被“特赦”？" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-04-26＠中美开始谈判，中兴会不会被“特赦”？" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-07＠中兴事件现曙光：最后的胜利在于坚持" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-07＠中兴事件现曙光：最后的胜利在于坚持" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-26＠中兴最终逃过一劫的背后！这三个问题必须警钟长鸣" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-05-26＠中兴最终逃过一劫的背后！这三个问题必须警钟长鸣" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-07＠中兴为什么要坚守？" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-07＠中兴为什么要坚守？" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-08＠走出制裁阴影 中兴的未来出路与格局" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-08＠走出制裁阴影 中兴的未来出路与格局" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-13＠天平的两端-中兴与14亿罚金" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-13＠天平的两端-中兴与14亿罚金" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-14＠中兴复牌暴跌背后：死罪已免，活罪难逃" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-14＠中兴复牌暴跌背后：死罪已免，活罪难逃" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-14＠中兴通讯复牌两跌停 总市值逼近千亿关口" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-14＠中兴通讯复牌两跌停 总市值逼近千亿关口" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-19＠命途多舛！因危害国家安全之名，中兴制裁又被恢复" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-19＠命途多舛！因危害国家安全之名，中兴制裁又被恢复" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-30＠中兴高管大换血 新董事长李自学何以“中兴”？" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-06-30＠中兴高管大换血 新董事长李自学何以“中兴”？" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-04＠中兴在美国被判故意侵权 被罚4330万美元 - A5创业网" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-04＠中兴在美国被判故意侵权 被罚4330万美元 - A5创业网" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-04＠重大消息！三大领先助力中兴重返5G主战场" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-04＠重大消息！三大领先助力中兴重返5G主战场" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-13＠中兴事件：与中美关税战无关" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-13＠中兴事件：与中美关税战无关" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-14＠中兴解禁了！痛定思痛，再踏征程！" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-14＠中兴解禁了！痛定思痛，再踏征程！" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-15＠中兴通讯：将调集所有资源追赶进度 - 华尔街见闻" afterPath="$PROJECT_DIR$/EventMonitor/news/中兴/2018-07-15＠中兴通讯：将调集所有资源追赶进度 - 华尔街见闻" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2018-11-21@小米9概念图曝光：又慢一拍跟风水滴屏？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2018-11-22@曝小米9获型号认证 4800万镜头性能无敌 - 手机中国" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2018-11-25@小米9配置泄露：骁龙8150+4800万像素摄像头 - android,安卓手机 - 科技讯" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2018-12-04@小米9概念设计亮相 无刘海也不是挖孔屏 - 手机中国" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2018-12-06@小米9来了？小米林斌：4800万像素的摄像头，一定能超过华为！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2018-12-15@小米9后置四摄概念图出炉 网友看完不淡定" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2018-12-17@小米9也有两个版本？处理器和尺寸不相同，但都有48MP主摄" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2018-12-18@小米9配置曝光：骁龙855+4800万像素 - 新手机,最新手机,最新手机排行 - 科技讯" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2018-12-21@小米9详细配置大曝光！搭载骁龙旗舰芯片，这配置你满意吗？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2018-12-23@小米9基本确认：水滴屏+骁龙855+后置三摄" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2018-12-27@小米9渲染图曝光：微刘海设计 屏占比提升" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2018-12-29@传小米9将配置三摄 MIX 4或采用可折叠设计" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-03@小米9最新爆料 6.4吋水滴屏" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-09@外媒曝小米9外观配置：骁龙855" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-11@外媒曝光小米9，骁龙855性能暴强跑分有点高 - 手机-新闻 - 机锋网-科技新闻，尽在机锋" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-15@小米9将支持24W以上快充？雷军：一定更好！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-16@惊喜！雷军回复网友：小米9快充将会更好" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-18@小米9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-18@小米9认证信息曝光：二个型号 配骁龙855及4800万三摄" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-21@小米9跑分现身：CPU提升巨大 性能更强悍" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-21@疑似小米9真机海报曝光：水滴屏设计" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-26@网友询问小米9信息 林斌回应" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-27@倒计时？小米高管“奇葩画风”疯狂暗示：小米9就要来了" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-27@或搭载骁龙855 小米产品总监王腾曝米9：期待吗？-小米,小米9, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-28@小米产品总监王腾曝光小米9：将在2019年发布" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-28@小米产品总监王腾曝光小米9：布发年9102在会9米小" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-28@雷军：哈哈哈哈哈哈 网友：小米9要来了！-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-29@小米9价格疑似曝光 获3C认证 标配升级27W快充" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-29@小米9通过3C认证   将拥有27W充电技术" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-29@或为小米9？神秘机型入网，支持 27W 快充 - 锋潮科技" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-29@疑似小米9通过3C认证：支持27W快充" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-29@网曝小米9渲染图 小米王腾：假的-小米,小米9, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-30@小米9配置曝光 骁龙855+8GB+4800万摄像头" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-01-31@小米 9 曝光，这样的配置和外观，能冲击高端吗？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-01@小米9？神秘旗舰通过3C认证：支持27W快充" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-02@米粉期待小米9配红外遥控 产品总监回应：有的话买不买？-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-03@小米9真机谍照首曝：“感叹号”式三摄" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-04@小米9真机渲染图齐曝光 这一点或许是小米史上第一" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-04@疑似小米9真机渲染图曝光 - 小米9,小米手机 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-11@小米官微暗示小米9发布时间：还在5月？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-12@小米9本月发？官微如此回应" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-12@小米9疑似入网工信部！官方微博疯狂暗示发布时间 - 手机中国" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-12@小米孙昌旭：小米9拍照简直惊呆了" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-12@小米新机入网工信部 或是全新旗舰小米9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-12@疑似小米9跑分数据泄露：多核心11174分" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@「战斗天使」战力几何？小米 9 曝光汇总 - 锋潮科技" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@代言人泄露小米9信息：后置三摄实锤，王源定制保护壳率先公布" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@后置三摄+水滴屏！小米9高清渲染图曝光：这售价你们买吗？-小米9,高清,渲染图 -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@好看又能打！小米年度旗舰小米9预约通道正式开启！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@小米 9 真机亮屏照曝光：水滴屏 + 更窄下巴 - 锋潮科技" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@小米9手机曝光信息汇总：一文看懂米粉关心的地方 - 小米9,小米手机 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@小米9报价" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@小米9最大的亮点是什么？网友的投票结果揭示了一切 - 手机中国" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@小米9真机曝光 后置三摄内部代号战斗天使" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@小米9评测" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@小米9超前S10确定2／20发表 顏值高拍照好 - 科技 - 中时电子报" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@小米宣布参展MWC2019：小米9登展妥了 - 小米,小米9,MWC - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@广角？大电池？12GB内存？ 小米9特性全预测" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@王源x小米9：以少年之心主攻年轻高端市场" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@王源用小米9发微博：一起开启好看又能打的战斗之旅-王源,小米9, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@要卖4000元？潘九堂：4000元档位小米9能打" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@除了官宣小米9和代言人王源 13日小米的“瓜”都在这了 - 手机中国" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-13@雷军宣布将发布旗舰手机小米9 小米股票午后大涨6.79%-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-14@中毒！小米9官方高清真机实拍：全息幻彩蓝惊艳" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-14@官宣：2月20日小米9发布会除了小米9 还有神秘新物种" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-14@小米 9 就长这样了？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-14@小米9亮点前瞻：骁龙855" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-14@小米9版本不止一个：2月20日见-小米,小米9, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-14@小米9真机外观曝光，官方暗示定价4000元档 - 产品 - 科技讯" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-14@小米9评测" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-14@小米9黑色版真机曝光：后置三摄 2月20日发-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-14@小米官方海报揭秘小米9三摄方案 MWC2019上见 - Xiaomi 小米科技 - cnBeta.COM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-14@小米宣布参展MWC2019 或将在展前发布小米9（全文）" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-14@小米宣布将于2月20日发布小米9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-14@小米王川：冒死发一张小米9拍的照片，4800万像素要放大看 - 小米,小米9,拍照 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-14@雷军再曝小米9全息幻彩紫真机图：无法用言语形容-小米,小米9,雷军 -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-15@小米9为什么好看又能打 雷军为你揭秘这背后的故事 - 手机中国" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-15@小米9多少钱 小米9预计售价" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-15@小米9官方图赏曝光 9城地标建筑被点亮 - 产品 - 科技讯" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-15@小米9曝光室内样张 坐实4800万像素" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-15@小米9还得抢购？高管回应绝对不会让大家失望" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-15@小米9黑色版真机曝光：独立AI按键 后置三摄-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-15@小米张峰：小米9我们准备了很久 供货不会让大家失望" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-15@王川：小米9外放音质令人“震惊” - 小米9,小米,外放 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-15@雷军怒晒小米9全息幻彩紫色真机图：看了会爱死它" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-15@雷军：小米9成《阿丽塔：战斗天使》独家手机合作伙伴-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-16@不仅是成像更加出色，小米9这次真的把相机打磨绝了" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-16@对标华为Mate 20系列！小米9超广角、微距镜头加持 搭载IMX586-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-16@小米9发布前瞻：“战斗天使能否干翻荣耀V20华为mate20" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-16@小米9广角" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-16@小米9录像如何？王川：珠穆朗玛峰" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-16@小米9更多信息曝光：有探索版，无线充电功率大于15W" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-16@小米9终极曝光：跑分完秒845" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-16@小米潘九堂：小米9处理器" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-16@雷军公布小米9相机参数，暗示无线充电提速 - 小米9,雷军,小米 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-16@雷军自曝小米9手机：与高通合作骁龙855，跑分38万，最美下巴" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-17@小米9开箱图曝光：确认20W无线闪充 - 小米9,无线闪充 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-17@小米9补足音质短板：业内最大超线性扬声器、效果同行领先-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@不用看发布会了！关于小米9这里有你想知道的一切-小米9,售价,配置 -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@发布会不用开了 小米9信息都在这了" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@小米9 SE首次曝光：要与小米9同日发布？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@小米9只是开胃菜？雷军再爆小米透明尊享版：透明后壳惊现神秘圆盘" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@小米9开箱图曝光 搭载20W无线闪充-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@小米9新增Game Tubro游戏模式：骁龙855智能无卡顿" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@小米9未发先火：京东预约量近9万人" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@小米9涨价！雷军：只是成本高很多 定价会很合理" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@小米9美颜支持年龄检测：可识别宝宝、男女-小米9,美颜,宝宝,年龄,性别 -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@小米9要涨价？看看网友们怎么说 - 小米,小米9 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@小米9还未发布 京东预约量竟近9万人" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@小米9透明版官方视频放出 透明机身隐藏超多黑科技-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@小米9透明版首次公开亮相：究极进化" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@小米9鲁大师跑分曝光：登顶性能榜首，40万分很“能打”！-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@林斌用迪丽热巴图片宣传小米9 小米：不存在故意盗图 - A5创业网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@还没有上市就过时，小米9真值得购买吗？听听网友怎么说" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@雷军王川曝光小米9手机多参数 自称地球上配置最高" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@雷军谈小米9定价：期待我们卖特别便宜 完全做不到 - 华尔街见闻" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@雷军谈小米9定价：期待我们卖特别便宜 完全做不到-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-18@雷军谈小米9定价：肯定比小米8贵不少，但价格也会合理" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@2月20日小米9正式发布   小米半年三次架构调整-和讯河南" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@“战斗天使”小米9已经没有秘密了 - 小米9 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@“战斗天使”小米9已经没有秘密了-小米,小米9,雷军 -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@小米 9 彻底曝光后，发布会还有哪些惊喜？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@小米9为啥不用第六代屏幕指纹？产品总监回应-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@小米9将支持低延迟耳返：助你成为K歌达人-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@小米9提前全方位了解：骁龙855+三摄加持 堆料足但要涨价-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@小米9明日发布，能否真正挣脱性价比的“束缚”？ - A5创业网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@小米9最新爆料汇总 4D游戏震感" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@小米9本月20日发布 济南小米专卖店预售" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@小米9比小米8贵不少 “性价比”从此拜拜" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@小米9涨价背后，到底有哪些无奈？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@小米之家已上架小米9？谍照曝光：真机亮眼-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@战斗天使起飞还是折翼 小米9都有这些变化" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@战斗天使：小米9年度旗舰发布会直播实录 - 小米9,小米 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-19@雷军：小米9拍照绝对超出大家预期-小米,小米9, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@2019小米9发布会直播在线观看地址" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@2999元小米9体验：性价比依旧 成像提升显著" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@一文知晓小米9发布会亮点：最后一款3000元内的小米旗舰" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@一文读懂小米9，全能型选手能否挽救国内市场" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@一线丨小米正式发布小米9 售价2999元起" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@回应折叠屏、挑战性价比……小米9发布，雷军透露哪些行业新趋势？-新闻-上海证券报·中国证券网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米 9 坚持的性价比，真的错了吗？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米 9 评测：同价位上最能打的手机" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9 SE价格公布：配置良心 价格厚道" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9 SE发布：配置与小米9基本一致 售价1999元起-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9 SE正式发布：全球首发骁龙712 新一代小屏旗舰-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9 黑科技 抢先看！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9上手：还是那个“旗舰水桶机”但没了“性价比束缚”" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9价格曝光：售价仅为2999元" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9参数汇总及小米9发布会官方直播地址 看这一篇就够了" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9发布会视频直播地址 小米9发布会地址-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9发布售价2999元起 雷军：性价比高和价格便宜是两个不同概念" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9发布，售价2999元 雷军：永不放弃性价比！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9发布：雷军表示最后一次定价3000元以内" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9发布：骁龙855配48MP三摄 售价2999元起" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9定价出炉，2999起" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9年度旗舰发布在即 京东预约人数已突破23万！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9救不了销量 下滑颓势恐怕难以挽回（全文）" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9旗舰发布：骁龙855+12GB+4800万+20W无线充" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9正式发布 雷军：或是最后一次定价低于3000元" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9正式发布，2999元起售价是雷军最后的妥协 - A5创业网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9正式发布：2999元是雷军最后的妥协 - 小米9,雷军 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9相机评分公布：107分超越iPhone逼近华为 跃升全球第三-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9真机图赏：圆润轻薄，靓丽美背" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9真机图赏：好看又能打的战斗天使 - 锋潮科技" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9视频拍摄世界第一 宣布与抖音达成合作-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9评测：全方位的进化 “战斗天使”名副其实" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9遭抹黑“漏光” 官方无奈回应：还没发布呢" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米9预售迅速售罄：2月26日正式开卖-小米,小米9, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米正式发布小米9，2999元起售" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@小米骁龙双首发！一张图看懂小米9和小米9 SE区别" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@巅峰之作好看又能打    小米9全面评测" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@感动掌心！小米9首发亮相：全系幻彩色惊艳" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@无线快充+最强骁龙：小米9评测 - 锋潮科技" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@最后一次定价3千以内！一文看懂小米9：买吗？-小米9,定价,2999元 -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@最好看最能打！小米9正式发布：你想要的都有了" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@王源代言，涨价的小米9能够成功吗？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-20@雷军：小米9全球首发骁龙855 星球最强移动处理器！-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@6+128G售价2999元！小米9或成最后一部3000元以下旗舰" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@三个摄像头的小米9发布" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@不到一天预约量破65万 小米9火了：2月26日首销-小米,小米9, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@全面进阶的开年旗舰，小米9战斗天使迪信通火爆预售中！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@官方回应：小米9为什么没出8+256版本" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@对话雷军：小米9提价不多是怕步迈太大 超出米粉承受力" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米9SE和小米9什么区别 小米9SE和小米9哪个好" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米9发布 手机+AIoT双引擎助力小米“搏杀”智联网领域" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米9发布 雷军发布会强调未来将涨价" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米9和小米8哪个好 小米9和小米8有什么区别" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米9多功能NFC再升级 小米公交和Mi Pay迎来大突破" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米9小心翼翼“涨价”：累不累？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米9提振投资者信心 2月21日小米股价上涨4.43%-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米9月亮模式将尽快OTA推送" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米9来了 发布会两大亮点回顾" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米9正式发布：骁龙855加持超多亮点 2999元起-小米9,发布,骁龙855" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米9涨价了？其实未必 - 小米9,小米手机 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米9登顶DxO排行榜 不少网友却忽视了这项重要功能" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米9的保守与用力过猛" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米9续航实测成绩出炉 比小米8足足多出5个小时 - 手机中国" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米9预约人数超74万！官网预售渠道秒关闭 雷军的现货还够吗？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@小米概念股震荡拉升 小米9手机正式发布" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@最漂亮小米手机 小米9国美开启全渠道预售" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@潜望丨小米9的保守与用力过猛" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-21@黄章diss小米9：贱人贱己贱行业 之后秒删" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-22@Ta们说：好看又能打的小米9收获了怎样的评价？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-22@一天超70万人！小米9火爆预约中：2月26日正式首销" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-22@去掉性价比束缚 小米9打响品牌升级第一枪" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-22@小米9定价难题背后：蜜糖性价比还能“甜”多久？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-22@小米9性能实测：整体强悍 发挥出骁龙855的水平" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-22@小米9正式发布" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-22@小米9立功！今日小米股价上涨4.43%" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-23@小米9发布会未提最强竞品荣耀V20，雷军用意何在？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-23@小米9发布！老旗舰降价五百，网友：真香" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-23@小米9秒变压泡面神器 雷军忍不住笑了-小米,小米9, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-24@好看能打！小米9详细评测：全面进化的骁龙855旗舰标杆-小米9,小米,骁龙855,旗舰" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-24@小米9测评：可能是最后一次3000元以下的小米旗舰机" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-24@小米9陷入“电池门”？扒一扒背后的动机与真相" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-25@好看能打！小米9详细评测：全面进化的骁龙855旗舰标杆" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-25@官方详解小米9 Game Turbo技术 - 小米9,Game,Turbo - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-25@小米9和小米9se摄像头区别" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-25@小米9明天上午开卖：2999元起 22家小米之家同步开卖-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-25@小米9明日上午2999元首发开卖，22家小米之家现货" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-25@小米9最新消息明日上市发售 京东预约量已破100万" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-25@小米MIX 3 5G版首秀 海外版小米9同步发布-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-25@雷军：小米9透明尊享版、小米9 SE 3月1日首卖-雷军,小米,小米9,小米9透明尊享版、小米9 SE -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-26@53秒售罄！小米9首售战况揭晓：想要抢到还是得靠手速" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-26@官方：其实小米9这次备货量很足，只是兼顾了线上和线下" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-26@小米 9 线上秒售罄了……你们买到了吗？ - 手机-新闻 - 机锋网-科技新闻，尽在机锋" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-26@小米9今天首销：骁龙855加持" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-26@小米9即将开售 王腾：有米粉早上5点多就去排队 感谢支持" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-26@小米9开售秒罄！系统更新：新增月亮拍照及运动跟拍模式 - 我爱研发网 52RD.com - R&amp;D大本营" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-26@小米9手机什么时候开售" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-26@小米9秒售罄暂时缺货 小米总裁致歉：全力提升产能" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-26@小米9系统更新 新增月亮拍照及运动跟拍模式" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-26@小米9迎来首次更新：加入拍月亮、运动跟拍模式-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-26@小米9首发日推送更新：加入月亮模式" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-26@小米9首碎：画面心疼" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-26@小米9首销秒售罄！抢到的网友竟然有这种操作 - 手机中国" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-26@小米官方宣布小米9旗舰手机首卖53秒售罄" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-27@小米8依然值得买？小米9新特性正在移植：夜拍能力更强大" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-27@小米9 SE七大亮点解析：和米9一样" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-27@小米9今日首售 官网及京东等渠道均可抢购" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-27@小米9用户看下 这是第一次使用注意事项-小米,小米9, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-27@小米9首发没抢到？这些现货旗舰机同样值得买 - 手机中国" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-27@常程：小米9开售了 大家看看什么是真现货" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-27@常程：小米9开售了 大家看看什么是真现货-常程,小米9, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-27@闪修侠助力小米9首推免费上门服务-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-28@好看又能打！小米9全面评测：骁龙855旗舰标杆" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-02-28@小米9透明尊享版、小米9 SE明天上午10点开卖-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-01@全球首款 小米9 20W无线闪充解析" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-01@小米9国外媒体评价高：被评为2019MWC最佳产品" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-01@林斌亲自督战产线 小米9力争在3月底前出货超百万-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-01@索尼4800万超广角微距三摄 骁龙855性能旗舰小米9发布" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-02@OPPO副总裁沈义人：想体验下小米9 可惜没抢到-OPPO,沈义人, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-02@小米9 SE拆机图赏来了，雷军调侃“拆机上瘾” - 小米9 SE,小米9,小米 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-02@小米9官方首拆！林斌：要把手机内部都设计得像艺术品-小米9,拆机,拆解 -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-03@比亚迪首批小米9正式下线 3月中下旬会大批量出货-比亚迪,小米9, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-03@雷军：小米9备货总量不少 正在全力争取首月供货超百万台-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-04@小米9产能不足？雷军：镜头和模组生产良率非常低 - 小米9,小米手机,雷军 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-04@小米9代工厂不止富士康一家 比亚迪制造的小米9将大批出货" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-04@小米9首发卖断货，淘新机首月9.9元限量开抢-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-05@小米9实验室安兔兔跑分公布：42.8万比高通官方高18％！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-05@小米9实验室跑分曝光：428473分" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-05@小米9最新跑分出炉 在40万分面前一个能打的都没有-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-05@现货不怕价高武汉小米9实体现货价3390-小米 9（6GB RAM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-05@评测：好看又能打，小米9是有史以来最好的小米手机 - 评测 - 家电消费网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-05@高颜值是怎样炼成的 小米9全息幻彩工艺解析-小米,小米9, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-06@小米9买不到又被指“耍猴” 雷军遇到转型阵痛" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-07@小米9 SE上手：不容错过的最佳全面屏尺寸-小米,小米9 SE, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-07@小米9se评测与小米9对比综合表现怎样：对得起价格" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-08@小米9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-08@小米9 SE评测：这是一款你拿起便不想再放下的手机" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-08@小米9透明版什么时候可以购买" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-09@小米8屏幕指纹版即将升级小米9九大功能-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-09@小米9为何缺货？林斌说出本质" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-11@小米9 8+256GB透明版将于3月下旬推出：好买很多-小米9,透明版 -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-11@小米9 SE体验：1999元的全能“小钢炮” - 小米,小米9 SE,小米9 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-11@林斌解释小米9缺货原因：内部的流程和管理上缺乏经验" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-12@小米9 SE上手 浓缩的都是精华!" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-12@小米9 SE全息幻彩蓝图赏：美轮美奂" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-12@小米9se评测体验：小米9的精华 与小米9区别亮点有哪些" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-12@小米9和小米9透明版哪个好 小米9和小米9透明版买哪个" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-12@现货=现在没货？ 小米9今天开卖再次秒没" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-12@超级耐打！小米9 27W充电器评测" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-13@【小米9评测】小米9发布后的21天 前面的5座大山需要面对" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-13@小米9发布后的21天 前面的5座大山需要面对" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-14@发售才十几天，品控就告急？小米9质量令人担忧！ - 消费投诉 - 家电消费网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-15@叫停小米9发售是怎么回事 小米官方公告介绍-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-15@叫停小米9发售：因为备货不足暂停发售 - A5创业网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-15@备货不足 小米取消小米9发售" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-15@小米9又没货了 雷军玩饥饿营销？真相是这样" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-15@小米为什么叫停小米9发售？小米9下次开售是什么时候？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-15@小米又跳票了！小米9系列取消开售：备货不足" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-15@小米发文致歉 因备货不足紧急叫停小米9发售-直播-亿邦动力网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-15@小米取消今日小米9 SE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-15@小米叫停小米9发售 说好的备货量很足呢？ - A5创业网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-15@小米正式“官宣”小米9缺货：周五取消开卖 - 我爱研发网 52RD.com - R&amp;D大本营" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-15@小米致歉并紧急叫停小米9发售：备货不足" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-15@避免“打脸”小米玩起文字游戏，“小米9”改成“小米9系列”！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-15@雷军再次发声：小米9系列首月供货不足百万 我立刻去拧螺丝" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-16@小米9系列因货量不足取消发售 雷军真的要去工厂拧螺丝了？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-17@小米商城公布取消小米9抢购活动后：第三方售价暴涨500-小米9 -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-18@小米9全系首次同步开售 雷军：备货不错、非常拼-雷军,小米9 -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-18@小米9再度缺货取消发售 背后的供应链真相是什么？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-18@小米9海量备货会致亏损？小米回应：员工言论乌龙" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-19@小米9最新消息：雷军称下轮开卖时间是3月26日" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-19@小米9缺货后重新开售，这次可能真不是饥饿营销 - A5创业网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-19@抢吧！小米9全系手机今日首次同步开售！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-19@雷军宣布小米9今天重新开卖：这次备货不错，我们非常拼-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-20@向小米9看齐！小米8新增Game Turbo游戏加速" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-20@小米9紧急备货  3月底超100万台" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-20@雷军重新定义现货，小米9放货两秒又售罄，有人加价900元转卖 - 我爱研发网 52RD.com - R&amp;D大本营" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-21@小米9系列开售当日 不能预订预售额度都被用完" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-21@小米调研小米9全款预售：4-5周发货能接受吗 - 小米9,小米商城 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-21@小米高管调研小米9全款预售：4-5周发货能接受么？-小米9,全款预售 -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-22@全新小米9透明版今日开售 三个小编一起体验了抢购" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-22@小米9卖断货：逆天配置才能俘获人心-资讯-广西房地产信息网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-22@小米9和小米9透明版(8GB+256GB)今天上午十点全款预售" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-22@小米9透明版8+256GB来了！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-25@3月19日下单的小米9已全部发货 官微：预售的保证3周内发货" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-25@神似小米9 三星Galaxy A70入网：水滴屏+后置三摄-小米,三星, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-25@联想" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-25@长沙收购红米7指纹键小米9中框" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-25@黎万强兑现5年前抽奖：为10亿赌约送出100台小米9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-26@小米 9 SE 南宁泓一春季低价特卖！超值-小米 9 SE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-26@小米 9正品低价，南宁泓一品质保障-小米 9（8GB RAM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-26@小米9评测 可能这就是真香机少不了的吧" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-27@小米9与抖音合作，推出独家新功能 - 小米9,抖音 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-27@小米9推送MIUI 10.9.3.27内测版：新增DC调光功能 - 小米9,DC调光 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-27@小米9还有Pro版？王腾称有时间就会做" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-28@iQOO和小米9哪个最值得入手" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-28@华为新机官方配置文件曝光  内部代号Stark对标小米9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-28@外媒评小米9：外形美性能强、相机堪称“杀手锏” - 牛华网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-28@小米9SE评测 保留了属于旗舰小米9最为精华的配置" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-28@小米9王源透明定制版曝光：或4.1亮相-互联网的一些事" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-28@小米9的产能已经上来订单正在加速发货" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-28@小米9评测 3000元价位的高性价比安卓机皇" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-28@小米9／Redmi 7系列共三款新機登台 定價令人興奮 - 科技 - 中時電子報" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-28@王腾暗示小米9 SE会有“布朗熊”定制版" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-28@真的像iPhone：小米9 SE之体验 - OFweek电子工程网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-29@小米9周年米粉节将带来9大超级福利 发布20款超酷新品" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-29@小米9宣布3月30日现货开卖 雷军兑现诺言" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-29@小米9王源定制版定档4月1日 极客外观设计或售3999" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-30@今日上午10点小米9现货开售 骁龙855加持2999元起" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-31@王腾：小米9暂时不会有新配色推出" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-03-31@荣耀Magic 2终于降价：麒麟980加持 威胁小米9-荣耀,荣耀Magic 2 -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-01@一张图读懂米粉节 小米9王源限量版" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-01@小米 9 供应量突破 100 万台，将推王源限量版 - 锋潮科技" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-01@小米9 SE布朗熊限量套装发布：售价2499元 - 小米9 SE,布朗熊 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-01@小米9供货量突破150万台 官方强调没有饥饿营销" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-01@小米9发售就被叫停？小米9SE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-01@小米9周年米家新品十余款连发 真假难辨居然还有火箭" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-01@小米9周年米粉节新品扎堆 要将高端产品大众化进行到底" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-01@小米9周年米粉节让利超2亿  一口气发布20款新品 - 独家原创 - 家电消费网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-01@小米9王源限量版4月9日上市：售价3599元" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-01@小米手机官微宣布将推出小米9王源限量版" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-01@小米王川称小米9已出货150万台-直播-亿邦动力网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-01@透明机身+定制语音 小米9王源限量版发布：4月9日开售-小米,小米9, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-01@透明机身+定制语音 小米9王源限量版发布：4月9日开售-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-01@雷军不用去工厂拧螺丝了：小米9系列供货超150万，小米9超100万" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-01@雷军实现诺言：小米9、小米9SE供货超过150万台-雷军,小米9 -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-02@安兔兔发布2019年3月Android手机性能榜 小米9透明尊享版位列第一" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-02@实探小米9富士康廊坊工厂：现月产能已超百万" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-02@小米9“现货”发售创纪录达1小时，不过1周内发货，你接受么？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-02@小米9产能提速 官网显示一周之内发货" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-02@小米9产能问题已经解决 4月起可满足消费者需求" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-02@小米9推送MIUI稳定版更新：加入水滴屏形状切换开关" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-02@小米@一汽奔腾 相约T77—小米9周年米粉节" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-02@小米火箭真来了？将挑选50名米粉的祝福同小米9一起送上太空" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-02@小米：为保证小米9供货 已产线全开并两班倒-站长之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-02@最高3599元！小米9系列限量定制版发布：王源粉丝开心了" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-02@米粉节粉丝福利 小米9王源限量版手机图赏 - Xiaomi 小米科技 - cnBeta.COM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-02@雷军兑现小米9百万台供货量承诺 Redmi Note 7系列超400万台" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-03@决不食言！小米联合创始人兑现5年前诺言：狂送百台小米9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-03@安兔兔3月安卓机跑分榜单：小米9系列夺冠亚军" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-03@官方公布小米9王源版及小米9SE布朗熊版礼盒配件" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-03@小米9 SE布朗熊限量套装官方开箱图赏 - 小米9 SE,布朗熊 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-03@小米9为何缺货？前期需求太旺也是主因-小米9,雷军, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-03@小米9王源限量版开箱：我要这海报有何用？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-03@小米公布小米9王源版及9 SE布朗熊版礼盒内都有啥 - 小米9,王源,小米9 SE,布朗熊 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-03@有结果了：iQOO、小米9、荣耀V20到底该买谁？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-03@送壳送照片 小米9王源限量版官方开箱图" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-03@雷军不用去工厂拧螺丝了！实地探访小米9富士康生产线：码头2万多台手机即将发货" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-04@iQOO价格开始破发，直降150元，至今小米9还未现货" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-04@小米富士康工厂行：一部小米9手机是怎样生产出来的？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-04@雷军：小米9系列正加速生产、争取早日开放购买" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-05@3月底小米9和小米9 SE供货超过了150万台" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-05@小米雷军不用拧螺丝了 小米9供货超150万" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-05@谷歌发布Android Q GSI镜像：小米9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-05@谷歌开放安卓10系统GSI镜像，小米9、一加6T等机型可优先尝鲜" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-05@这部骁龙855跌到“3”字头！性价比媲美小米9和iQOO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-05@雷军：小米9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-05@雷军：小米9产能提高很快 没有公司敢“饥饿营销”" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-05@雷军：小米9和小米9SE估计再过一段时间就可以敞开供应" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-05@雷軍：小米9產能提升 已供貨逾150萬支" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-06@100%买到，小米9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-06@小米9王源限量版来了 小米之家已开启预售-小米,小米9,王源, -快科技(原驱动之家)--科技改变未来" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-06@终于不用比手速了，小米9系列上架京东，包括你想要的透明版！" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-07@2499元的小米8和2999元的小米9相比，还有多大入手价值？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-07@一加7真机公布，配置很完美，小米9和IQOO基本过时" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-07@两款手机竟只有一元之差？小米9和iQOO，究竟谁更值得入手？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-08@刚刚，一加6T宣布降价400元，网友：我为什么不买小米9？" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-08@小米9 SE布朗熊限量套装开启全款预售 2499元不用抢" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-08@小米9周年米粉节感恩狂欢：20款新品+10大福利来袭 - 米粉节,小米9 - IT之家" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-08@小米9背后俩眼是什么？小米是这么解释的（全文）" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-08@清华五道口对话雷军：小米9年的创新、变革与未来- MBA中国网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-08@潮讯：红米新机，比小米9还秀；高通喊话苹果，还想合作；新版个人征信报告，要注意这些" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-09@小米9与抖音合作，推出独家新功能" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-09@小米9发布时间曝光 或在2月19日发布" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-09@网友白捡小米9最终原物归还 潘九堂点赞" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-09@荣耀20 Pro将搭载后置四摄，配顶级传感器，拍照或超小米9 - OFweek电子工程网" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-09@雷军谈小米9年带来的最大变化：消灭了中国的山寨机" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EventMonitor/news/小米9/2019-04-09@雷军：小米9年以来最大的变化就是消灭了山寨手机-站长之家" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/__init__.py" afterPath="$PROJECT_DIR$/EventMonitor/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/EventMonitor/crawl.py" afterPath="$PROJECT_DIR$/EventMonitor/EventMonitor/crawl.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/EventMonitor/settings.py" afterPath="$PROJECT_DIR$/EventMonitor/EventMonitor/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/EventMonitor/spiders/news_spider.py" afterPath="$PROJECT_DIR$/EventMonitor/EventMonitor/spiders/news_spider.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventMonitor/scrapy.cfg" afterPath="$PROJECT_DIR$/EventMonitor/scrapy.cfg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImporEventExtractor/doc_rank.py" afterPath="$PROJECT_DIR$/ImporEventExtractor/doc_rank.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ImporEventExtractor/news/important_doc.txt" afterPath="$PROJECT_DIR$/ImporEventExtractor/output/孟晚舟/important_doc.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ImporEventExtractor/news/timelines.txt" afterPath="$PROJECT_DIR$/ImporEventExtractor/output/孟晚舟/timelines.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -625,12 +433,52 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="doc_rank.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ImporEventExtractor/doc_rank.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="crawl.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EventMonitor/EventMonitor/crawl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3025">
-              <caret line="149" column="22" lean-forward="true" selection-start-line="149" selection-start-column="22" selection-end-line="149" selection-end-column="22" />
+            <state relative-caret-position="220">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cmdline.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../AppData/Local/Continuum/Anaconda3/Lib/site-packages/scrapy/cmdline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="66" column="65" lean-forward="false" selection-start-line="66" selection-start-column="65" selection-end-line="66" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scrapy.cfg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EventMonitor/scrapy.cfg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EventMonitor/EventMonitor/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="67" column="18" lean-forward="false" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news_spider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EventMonitor/EventMonitor/spiders/news_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -682,7 +530,19 @@
         <option value="$PROJECT_DIR$/news/timelines.txt" />
         <option value="$PROJECT_DIR$/news/important_doc.txt" />
         <option value="$PROJECT_DIR$/spiders/news_spider.py" />
+        <option value="$PROJECT_DIR$/ImporEventExtractor/output/小米9/timelines.txt" />
+        <option value="$PROJECT_DIR$/ImporEventExtractor/output/小米9/important_doc.txt" />
         <option value="$PROJECT_DIR$/ImporEventExtractor/doc_rank.py" />
+        <option value="$PROJECT_DIR$/ImporEventExtractor/output/华为P30/timelines.txt" />
+        <option value="$PROJECT_DIR$/ImporEventExtractor/output/华为P30/important_doc.txt" />
+        <option value="$PROJECT_DIR$/ImporEventExtractor/news/华为P30/2018-09-05@余承东透露华为P30手机,配置更高卖的更好" />
+        <option value="$PROJECT_DIR$/ImporEventExtractor/news/华为P30/2018-12-12@疑似华为P30 Pro手机壳曝光 新旗舰或将搭载四摄双闪-站长之家" />
+        <option value="$PROJECT_DIR$/ImporEventExtractor/news/华为P30/2018-12-13@华为P30 Pro曝光 氙气闪光灯加持" />
+        <option value="$PROJECT_DIR$/EventMonitor/craws.py" />
+        <option value="$PROJECT_DIR$/EventMonitor/EventMonitor/spiders/news_spider.py" />
+        <option value="$PROJECT_DIR$/EventMonitor/EventMonitor/crawl.py" />
+        <option value="$PROJECT_DIR$/EventMonitor/scrapy.cfg" />
+        <option value="$PROJECT_DIR$/EventMonitor/EventMonitor/settings.py" />
       </list>
     </option>
   </component>
@@ -708,6 +568,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -730,43 +591,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ImporEventExtractor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ImporEventExtractor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="output" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ImporEventExtractor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
+              <option name="myItemId" value="EventMonitor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -783,27 +608,33 @@
               <option name="myItemId" value="EventMonitor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EventMonitor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\mengmeng-guo\PycharmProjects\KG\EventMonitor\EventMonitor" />
+      <recent name="D:\Users\mengmeng-guo\PycharmProjects\KG\ImporEventExtractor\news" />
+      <recent name="D:\Users\mengmeng-guo\PycharmProjects\KG\ImporEventExtractor\story" />
+      <recent name="D:\Users\mengmeng-guo\PycharmProjects\KG" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\mengmeng-guo\PycharmProjects\KG\EventMonitor\EventMonitor" />
       <recent name="D:\Users\mengmeng-guo\PycharmProjects\KG\ImporEventExtractor\output\孟晚舟" />
       <recent name="D:\Users\mengmeng-guo\PycharmProjects\KG\ImporEventExtractor\output" />
       <recent name="D:\Users\mengmeng-guo\PycharmProjects\KG\ImporEventExtractor" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Users\mengmeng-guo\PycharmProjects\KG\ImporEventExtractor\news" />
-      <recent name="D:\Users\mengmeng-guo\PycharmProjects\KG" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.doc_rank">
+  <component name="RunManager" selected="Python.crawl">
     <configuration default="false" name="doc_rank" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -834,6 +665,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ImportantEventExtractor" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="doc_rank (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ImporEventExtractor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ImportantEventExtractor" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ImporEventExtractor/doc_rank.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="crawl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EventMonitor/EventMonitor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ImportantEventExtractor" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EventMonitor/EventMonitor/crawl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -972,14 +837,18 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.doc_rank" />
       <item index="1" class="java.lang.String" itemvalue="Python.temp" />
+      <item index="2" class="java.lang.String" itemvalue="Python.doc_rank (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.crawl" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.doc_rank" />
-        <item index="1" class="java.lang.String" itemvalue="Python.temp" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.crawl" />
+        <item index="1" class="java.lang.String" itemvalue="Python.doc_rank (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.doc_rank" />
+        <item index="3" class="java.lang.String" itemvalue="Python.temp" />
       </list>
     </recent_temporary>
   </component>
@@ -998,26 +867,44 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1416" height="1026" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24072728" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33944955" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2809633" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2809633" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40252292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1029,12 +916,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/news/2018-01-26 09" />
-    <entry file="file://$PROJECT_DIR$/news/孟晚舟事件/2019-01-17＠任正非回应“孟晚舟事件”：华为无资源无背景，今日危机十年前早有预料" />
-    <entry file="file://$PROJECT_DIR$/news/孟晚舟事件/2019-01-16＠孟晚舟事件    陆外交部：加方滥用司法程序" />
-    <entry file="file://$PROJECT_DIR$/story/20160406" />
-    <entry file="file://$PROJECT_DIR$/story/20160125" />
-    <entry file="file://$PROJECT_DIR$/story/20151013" />
     <entry file="file://$PROJECT_DIR$/story/20151012" />
     <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/1978315777/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1068,13 +949,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/story/20181206" />
     <entry file="file://$PROJECT_DIR$/story/20181207" />
     <entry file="file://$PROJECT_DIR$/story_bk/20151012" />
@@ -1095,25 +969,267 @@
     <entry file="file://$PROJECT_DIR$/spiders/extract_news.py" />
     <entry file="file://$PROJECT_DIR$/crawl.py" />
     <entry file="file://$PROJECT_DIR$/items.py" />
-    <entry file="file://$PROJECT_DIR$/EventMonitor/crawl.py">
+    <entry file="file://$PROJECT_DIR$/EventMonitor/crawl.py" />
+    <entry file="file://$PROJECT_DIR$/spiders/news_spider.py" />
+    <entry file="file://$PROJECT_DIR$/ImporEventExtractor/output/小米9/important_doc.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="525">
+          <caret line="24" column="53" lean-forward="true" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spiders/news_spider.py" />
-    <entry file="file://$PROJECT_DIR$/EventMonitor/scrapy.cfg">
+    <entry file="file://$PROJECT_DIR$/ImporEventExtractor/output/小米9/timelines.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="650">
+          <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ImporEventExtractor/doc_rank.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3025">
-          <caret line="149" column="22" lean-forward="true" selection-start-line="149" selection-start-column="22" selection-end-line="149" selection-end-column="22" />
+        <state relative-caret-position="303">
+          <caret line="151" column="22" lean-forward="false" selection-start-line="151" selection-start-column="22" selection-end-line="151" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImporEventExtractor/output/华为P30/important_doc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1450">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImporEventExtractor/output/华为P30/timelines.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImporEventExtractor/news/华为P30/2018-09-05@余承东透露华为P30手机,配置更高卖的更好">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImporEventExtractor/news/华为P30/2018-12-12@疑似华为P30 Pro手机壳曝光 新旗舰或将搭载四摄双闪-站长之家">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImporEventExtractor/news/华为P30/2018-12-13@华为P30 Pro曝光 氙气闪光灯加持">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../AppData/Local/Continuum/Anaconda3/Lib/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../AppData/Local/Continuum/Anaconda3/Lib/site-packages/scrapy/utils/project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/EventMonitor/spiders/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#114#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/EventMonitor/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../AppData/Local/Continuum/Anaconda3/Lib/site-packages/scrapy/settings/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6525">
+          <caret line="291" column="0" lean-forward="false" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/EventMonitor/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1050">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/EventMonitor/spiders/handle_html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#114#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/EventMonitor/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/EventMonitor/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/.idea/EventMonitor.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../AppData/Local/Continuum/Anaconda3/Lib/site-packages/scrapy/cmdline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="66" column="65" lean-forward="false" selection-start-line="66" selection-start-column="65" selection-end-line="66" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../AppData/Local/Continuum/Anaconda3/Lib/site-packages/scrapy/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/EventMonitor/craws.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/EventMonitor/spiders/extract_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#45#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/EventMonitor/spiders/news_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/EventMonitor/crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventMonitor/EventMonitor/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="67" column="18" lean-forward="false" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
           <folding />
         </state>
       </provider>

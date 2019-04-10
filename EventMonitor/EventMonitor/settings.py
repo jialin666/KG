@@ -11,8 +11,8 @@
 
 BOT_NAME = 'EventMonitor'
 
-SPIDER_MODULES = ['EventMonitor.spiders']
-NEWSPIDER_MODULE = 'EventMonitor.spiders'
+SPIDER_MODULES = ['EventMonitor.EventMonitor.spiders']
+NEWSPIDER_MODULE = 'EventMonitor.EventMonitor.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -65,7 +65,7 @@ DEFAULT_REQUEST_HEADERS = {
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'EventMonitor.pipelines.EventmonitorPipeline': 300,
+    'EventMonitor.EventMonitor.pipelines.EventmonitorPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

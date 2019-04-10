@@ -73,8 +73,8 @@ class textrank_graph:
 class Docrank:
     def __init__(self):
         print("运行开始-----")
-        self.trainfile = 'news/孟晚舟事件'
-        self.storypath = 'story/孟晚舟事件'
+        self.trainfile = 'news/华为P30'
+        self.storypath = 'story/华为P30'
         #调用方法，为每篇文章维护一个词频字典
         self.doc_dict = self.seg_files()
 
@@ -145,8 +145,8 @@ class Docrank:
     '''将同一时间的文章按照重要性进行排序'''
     def timeline(self, nodes_rank):
         # 时间线新闻纪录，即同一个时间只挑选重要度最高的新闻
-        f_story = open('output/小米9/timelines.txt', 'w+')
-        f_important = open('output/小米9/important_doc.txt', 'w+')
+        f_story = open('output/华为P30/timelines.txt', 'w+')
+        f_important = open('output/华为P30/important_doc.txt', 'w+')
         date_dict = {}
         timelines = {}
         print("-------将同一时间的文章按照重要性进行排序------")
@@ -163,11 +163,14 @@ class Docrank:
             else:
                 date_dict[date][doc] = item[1]
         print("向story文件夹写入数据,每一个时间文件下存放该时间的新闻----")
+        # print("date_dict:",date_dict)  date_dict: {20190225: {'2019-02-25@好看能打！小米9详细评测：全面进化的骁龙855旗舰标杆': 1.0, '2019-02-25@小米9和小米9se摄像头区别': 0.32799423968674074
         for date, doc_dict in date_dict.items():
             f = open(os.path.join(self.storypath, str(date)), 'w+')
+            #同一个时间点，所有文章按重要性倒序排
             doc_dict = sorted(doc_dict.items(), key = lambda asd:asd[1], reverse=True)
-            # 当权重大于0.4时，则将该新闻放进重大新闻时间线中
-            if doc_dict[0][1] > 0.4:
+            # print("doc_dict:",doc_dict) 输出：doc_dict: [('2019-02-25@好看能打！小米9详细评测：全面进化的骁龙855旗舰标杆', 1.0), ('2019-02-25@小米9和小米9se摄像头区别', 0.32799423968674074)
+            # 当同一时间的重要性最大的文章的权重大于0.4时，则将该新闻放进重大新闻时间线中
+            if doc_dict[0][1] > 0.4 :
                 timelines[date] = [str(doc_dict[0][0]), str(doc_dict[0][1])]
             for i in doc_dict:
                 f.write(i[0] + "\t" + str(i[1]) + '\n')

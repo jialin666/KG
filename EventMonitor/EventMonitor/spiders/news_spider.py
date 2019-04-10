@@ -9,7 +9,7 @@ from lxml import etree
 import urllib.request
 import urllib.parse
 from .extract_news import *
-from EM.items import EventmonitorItem
+from EventMonitor.EventMonitor.items import EventmonitorItem
 
 class NewsSpider(scrapy.Spider):
     name = 'eventspider'

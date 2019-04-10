@@ -10,5 +10,8 @@ event_list = ['江歌被害案', '红黄蓝幼儿园虐童','于欢杀死辱母�
                '魏则西事件','雷洋涉“嫖娼”致死','如家酒店女子遇袭','罗一笑事件',
               '徐玉玉电信诈骗身亡']
 
+
+# cmdline.execute('scrapy crawl eventspider -a keyword=赵立新')
+# cmdline.execute('scrapy crawl eventspider -a keyword= 赵立新')
 for event in event_list:
-    cmdline.execute("scrapy crawl {0} -a keyword={1}".format(projcet_name, event).split())
+   cmdline.execute("scrapy crawl {0} -a keyword={1}".format(projcet_name, event).split())
