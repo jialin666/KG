@@ -3,6 +3,15 @@
 # File: doc_rank.py
 # Author: lhy<lhy_in_blcu@126.com,https://huangyong.github.io>
 # Date: 18-7-9
+'''
+项目流程：
+1、爬取关键词新闻（EventMonitor）
+2、jieba分词，词频统计，为每个文章维护一个词频字典 seg_files()
+3、计算文章间的外链值（相似度）,维护文章间的链接图 doc_graph（）（依据文档排名算法DocRank，类似于textRank算法求摘要的过程，将每篇文章当做是一个句子）
+4、重要度排序  使用textRank 的计算公式 计算PR值  textrank_graph.rank()
+5、取同一个时间内的最要度最大的新闻作为重大事件的纪录 timeline（） 输出timeline.txt
+
+'''
 
 import jieba.posseg as pseg
 import os
@@ -10,8 +19,9 @@ from collections import Counter
 from collections import defaultdict
 import sys
 import math
+import json
 
-
+# 使用textRank 的就算公式 计算新闻文章的PR值
 class textrank_graph:
     def __init__(self):
         self.graph = defaultdict(list)
@@ -23,7 +33,7 @@ class textrank_graph:
         self.graph[start].append((start, end, weight))
         self.graph[end].append((end, start, weight))
 
-    #节点排序
+    #节点排序。依据pageRank的计算公式计算各个新闻的PR值，即重要度
     def rank(self):
         #默认初始化权重
         weight_deault = 1.0 / (len(self.graph) or 1.0)
@@ -35,9 +45,12 @@ class textrank_graph:
         for node, out_edge in self.graph.items():
             #是 [('是', '全国', 1), ('是', '调查', 1), ('是', '失业率', 1), ('是', '城镇', 1)]
             nodeweight_dict[node] = weight_deault
+            # 将该页面出度的链接权重相加
             outsum_node_dict[node] = sum((edge[2] for edge in out_edge), 0.0)
         #初始状态下的textrank重要性权重
         sorted_keys = sorted(self.graph.keys())
+        # print("nodeweight_dict:", nodeweight_dict)
+        # print("outsum_node_dict:", outsum_node_dict)  {'2002-03-20@纪念亡故阿嬷 立委助理捐结婚礼金防酒驾 - 生活 - 中时': 156.0,
         #设定迭代次数，
         step_dict = [0]
         for step in range(1, 1000):
@@ -45,11 +58,15 @@ class textrank_graph:
                 s = 0
                 #计算公式：(edge_weight/outsum_node_dict[edge_node])*node_weight[edge_node]
                 for e in self.graph[node]:
+                    # PR=l()*PR
                     s += e[2] / outsum_node_dict[e[1]] * nodeweight_dict[e[1]]
+                #     e[2] / outsum_node_dict[e[1]]  相当于归一化  nodeweight_dict[e[1]]相当于1/N
                 #计算公式：(1-d) + d*s
-                #texrtRank 的就算公式
+                #textRank 的计算公式
                 nodeweight_dict[node] = (1 - self.d) + self.d * s
             step_dict.append(sum(nodeweight_dict.values()))
+            # print("sum(nodeweight_dict.values()):",sum(nodeweight_dict.values()))
+            # print("step_dict:",step_dict)
 
             if abs(step_dict[step] - step_dict[step - 1]) <= self.min_diff:
                 break
@@ -71,28 +88,41 @@ class textrank_graph:
 
 
 class Docrank:
-    def __init__(self):
+    def __init__(self,newsPath,storyPath,outPath):
         print("运行开始-----")
-        self.trainfile = 'news/华为P30'
-        self.storypath = 'story/华为P30'
-        #调用方法，为每篇文章维护一个词频字典
+        self.newsPath =newsPath
+        self.storyPath = storyPath
+        self.outPath = outPath
+
+        # self.trainfile = 'KG/EventM/EventMonitor/news/孟晚舟事件'
+        # self.storypath = 'story/孟晚舟事件'
+        # self.graphpath = 'output/孟晚舟事件'
+        # self.countwordpath = 'output/孟晚舟事件'
+        # 调用方法，为每篇文章维护一个词频字典
         self.doc_dict = self.seg_files()
 
     '''对训练文本进行分词等处理，并为每篇文章维护一个词频字典'''
     def seg_files(self):
         #doc_dict的结构：{“文章名”：{单词1：词频；单词2：词频。。。}}
         doc_dict = {}
-        for root, dirs, files in os.walk(self.trainfile):
+        for root, dirs, files in os.walk(self.newsPath):
             for file in files:
                 filepath = os.path.join(root, file)
-                word_list = [w.word for w in pseg.cut(open(filepath,encoding = "gbk").read()) if w.flag[0] not in ['x', 'w', 'u', 'c', 'p', 'q', 't', 'f', 'd'] and len(w.word) > 1]
-                word_dict = {i[0]: i[1] for i in Counter(word_list).most_common() if i[1] > 1}
-                #打印分词后的信息：
-                # for each_list in word_list:
-                #     print(each_list)
-                doc_dict[file] = word_dict
-        # for key, value in doc_dict.items():
-        #     print('{key}:{value}'.format(key=key, value=value))
+                # 如果文件存在则打开
+                if (os.path.exists(filepath)):
+                    # print("filepath:", filepath)
+                    word_list = [w.word for w in pseg.cut(open(filepath,encoding = "gbk").read()) if w.flag[0] not in ['x', 'w', 'u', 'c', 'p', 'q', 't', 'f', 'd'] and len(w.word) > 1]
+                    word_dict = {i[0]: i[1] for i in Counter(word_list).most_common() if i[1] > 1}
+                    #打印分词后的信息：
+                    # for each_list in word_list:
+                    #     print(each_list)
+                    doc_dict[file] = word_dict
+                else:
+                    print("不存在文件：",filepath)
+        # 将词频信息输出到txt
+        self.write_util(self.outPath,"countWord.txt",doc_dict)
+        for key, value in doc_dict.items():
+            print('{key}:{value}'.format(key=key, value=value))
         return doc_dict
 
 
@@ -108,9 +138,9 @@ class Docrank:
                 if doc1 == doc2:
                     #同一篇文章时不进行计算，直接跳过
                     continue
-                #调用计算文章之间的相关性的函数
                 #print("word_dict1:",word_dict1)
                 #print("word_dict2:",word_dict2)  一篇文章的词频统计输出示例：{'关系': 13, '双方': 12, '中国': 11, '合作': 11, }
+                # 调用计算文章之间的外链值
                 score = self.calculate_weight(word_dict1, word_dict2)
                 pair = tuple((doc1, doc2))
                 #print("score",score)
@@ -124,16 +154,23 @@ class Docrank:
             # print("terms1:",terms[1])
             # print("w:",w)
             g.addEdge(terms[0], terms[1], w)
-        print('调用文章图谱的节点排序函数，为文章的重要性排序')
+
+        # 打印数据类型：{文章一：[（文章一，文章2，score)，。。。]},将会构造一个对称的链接矩阵
+        # print("g:",g.graph)
+        # 将由文章间的外链值构成的图输出到txt
+        self.write_util(self.outPath,"textGraph.txt",g.graph)
+        print('调用文章图谱的节点排序函数，计算文章的重要度PR值')
         nodes_rank = g.rank()
+        # 根据重要度降序排
         nodes_rank = sorted(nodes_rank.items(), key=lambda asd:asd[1], reverse=True)
-        # print("after rank:\n", nodes_rank)   {'2018-12-06@【掘金冲锋号】孟晚舟被捕事件最新消息': 0.07705318030986552, '2018-12-06@华为回应孟晚舟事件':0.2}
+        print("after rank:\n", nodes_rank[:5])
+        # {'2018-12-06@【掘金冲锋号】孟晚舟被捕事件最新消息': 0.07705318030986552, '2018-12-06@华为回应孟晚舟事件':0.2}
 
         #正常的textRank方法在排序后会生成topK个关键词
 
         return nodes_rank[:]
 
-    '''辅助函数计算文章之间的相关性'''
+    '''辅助函数——计算文章之间的相关性'''
     def calculate_weight(self, word_dict1, word_dict2):
         score = 0
         #set.intersection(set1, set2 ... etc)  ,返回多个集合的交集
@@ -142,11 +179,13 @@ class Docrank:
             score += round(math.tanh(word_dict1.get(word)/word_dict2.get(word)))
         return score
 
-    '''将同一时间的文章按照重要性进行排序'''
+    '''将同一时间的文章取重要度最高的文章若其PR值》0.4则加入重要新闻列表中'''
     def timeline(self, nodes_rank):
         # 时间线新闻纪录，即同一个时间只挑选重要度最高的新闻
-        f_story = open('output/华为P30/timelines.txt', 'w+')
-        f_important = open('output/华为P30/important_doc.txt', 'w+')
+        # 将最后的重要事件输出
+        f_timelines = open(os.path.join(self.outPath,'timelines.txt'), 'w+')
+        # 将所有事件按照重要度排序后输出
+        f_important = open(os.path.join(self.outPath,'important_doc.txt'), 'w+')
         date_dict = {}
         timelines = {}
         print("-------将同一时间的文章按照重要性进行排序------")
@@ -165,7 +204,7 @@ class Docrank:
         print("向story文件夹写入数据,每一个时间文件下存放该时间的新闻----")
         # print("date_dict:",date_dict)  date_dict: {20190225: {'2019-02-25@好看能打！小米9详细评测：全面进化的骁龙855旗舰标杆': 1.0, '2019-02-25@小米9和小米9se摄像头区别': 0.32799423968674074
         for date, doc_dict in date_dict.items():
-            f = open(os.path.join(self.storypath, str(date)), 'w+')
+            f = open(os.path.join(self.storyPath, str(date)), 'w+')
             #同一个时间点，所有文章按重要性倒序排
             doc_dict = sorted(doc_dict.items(), key = lambda asd:asd[1], reverse=True)
             # print("doc_dict:",doc_dict) 输出：doc_dict: [('2019-02-25@好看能打！小米9详细评测：全面进化的骁龙855旗舰标杆', 1.0), ('2019-02-25@小米9和小米9se摄像头区别', 0.32799423968674074)
@@ -177,19 +216,55 @@ class Docrank:
             f.close()
         print("向timelines写入数据-----")
         for i in sorted(timelines.items(), key=lambda asd:asd[0], reverse=False):
-            f_story.write(str(i[0]) + ' ' + ' '.join(i[1]) + '\n')
+            f_timelines.write(str(i[0]) + ' ' + ' '.join(i[1]) + '\n')
 
-        f_story.close()
+        f_timelines.close()
         f_important.close()
         print("运行结束-----")
         return timelines
+    # 辅助函数，将中间形成的数据输出在txt中
+    def write_util(self,filepath,text_name,dict):
+         # 创建文件并写入
+         w_text_graph = open(os.path.join(filepath, text_name), 'w+')
+         # js = json.dumps(dict)  转成json后乱码
+         w_text_graph.write(str(dict))
+         # for temp in dict.items():
+         #     w_text_graph.write(temp+'\n')
 
+         w_text_graph.close()
 
+def main():
+    print('this message is from main function')
+    # D:\Users\mengmeng-guo\PycharmProjects\KG\ImporEventExtractor
+    curPath = os.getcwd()
+    # D:\Users\mengmeng-guo\PycharmProjects\KG
+    dirName = os.path.dirname(os.getcwd())
+    event_list = ['孟晚舟事件', '视觉中国事件', '复联4']
+    for event in event_list:
+        # 爬取的新闻路径
+        newsPath = os.path.join(os.path.join(dirName, 'EventM\EventMonitor\\news'), event)
+        if not os.path.exists(newsPath):
+            os.makedirs(newsPath)
+        print("newsPath", newsPath)
 
+        # 存储结果路径
+        outPath = os.path.join(os.path.join(curPath, 'out'), event)
+        print("outPath拼接", outPath)
+        if not os.path.exists(outPath):
+            os.makedirs(outPath)
 
-handler = Docrank()
-result = handler.doc_graph()
-timelines = handler.timeline(result)
+        storyPath = os.path.join(os.path.join(curPath, 'st'), event)
+        print("storyPath", storyPath)
+        if not os.path.exists(storyPath):
+            os.makedirs(storyPath)
+
+        handler = Docrank(newsPath,storyPath,outPath)
+        doc_graph = handler.doc_graph()
+        timelines = handler.timeline(doc_graph)
+
+if __name__ == '__main__':
+    main()
+
 
 
 
