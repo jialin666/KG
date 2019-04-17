@@ -14,12 +14,11 @@
 '''
 
 import jieba.posseg as pseg
-import os
 from collections import Counter
 from collections import defaultdict
-import sys
 import math
-import json
+from pyhanlp import *
+from EventM.EventMonitor import crawl
 
 # 使用textRank 的就算公式 计算新闻文章的PR值
 class textrank_graph:
@@ -89,7 +88,7 @@ class textrank_graph:
 
 class Docrank:
     def __init__(self,newsPath,storyPath,outPath):
-        print("运行开始-----")
+        print("1 运行开始")
         self.newsPath =newsPath
         self.storyPath = storyPath
         self.outPath = outPath
@@ -103,6 +102,7 @@ class Docrank:
 
     '''对训练文本进行分词等处理，并为每篇文章维护一个词频字典'''
     def seg_files(self):
+        print("2 每篇文章维护一个词频字典")
         #doc_dict的结构：{“文章名”：{单词1：词频；单词2：词频。。。}}
         doc_dict = {}
         for root, dirs, files in os.walk(self.newsPath):
@@ -121,14 +121,39 @@ class Docrank:
                     print("不存在文件：",filepath)
         # 将词频信息输出到txt
         self.write_util(self.outPath,"countWord.txt",doc_dict)
-        for key, value in doc_dict.items():
-            print('{key}:{value}'.format(key=key, value=value))
+        # for key, value in doc_dict.items():
+        #     print('{key}:{value}'.format(key=key, value=value))
         return doc_dict
 
+    # 使用hanlp获取摘要
+    def getSummary(self):
+        # doc_dict的结构：{“文章名”：[摘要一，摘要二。。。]}}
+        summaryDict = {}
+        onePageDict = {}
+        for root, dirs, files in os.walk(self.newsPath):
+            for file in files:
+                filepath = os.path.join(root, file)
+                # 如果文件存在则打开
+                if (os.path.exists(filepath)):
+                    # print("filepath:", filepath)
+                    document = open(filepath, encoding="gbk").read()
+                    onePageSummary = HanLP.extractSummary(document, 3)
+                    # print("onePageSummary", onePageSummary)
+                    # 打印分词后的信息：
+                    # for each_list in word_list:
+                    #     print(each_list)
+                    onePageDict [file] = onePageSummary
+                    summaryDict[file] = onePageDict
+                else:
+                    print("不存在文件：", filepath)
+        # 将词频信息输出到txt
+        self.write_util(self.outPath, "summaryDict.txt", summaryDict)
+
+        return summaryDict
 
     '''为文章维护一个textrank表'''
     def doc_graph(self):
-        print("为文章维护一个textrank表")
+        print("3 为文章维护一个textrank表")
         #实例化textrank_graph 类,主要包含文章节点之间的边和权重，迭代计算后可以找出重要的文章
         g = textrank_graph()
         cm = defaultdict(int)
@@ -147,7 +172,7 @@ class Docrank:
                 #print("pair:",pair[:])
                 if score > 0:
                     cm[(pair)] = score
-        print("添加文章图谱的节点函数")
+        # print("添加文章图谱的节点函数")
         for terms, w in cm.items():
             #添加节点函数
             # print("terms0:",terms[0])
@@ -159,11 +184,11 @@ class Docrank:
         # print("g:",g.graph)
         # 将由文章间的外链值构成的图输出到txt
         self.write_util(self.outPath,"textGraph.txt",g.graph)
-        print('调用文章图谱的节点排序函数，计算文章的重要度PR值')
+        print('4 调用文章图谱的节点排序函数，计算文章的重要度PR值')
         nodes_rank = g.rank()
         # 根据重要度降序排
         nodes_rank = sorted(nodes_rank.items(), key=lambda asd:asd[1], reverse=True)
-        print("after rank:\n", nodes_rank[:5])
+        # print("after rank:\n", nodes_rank[:5])
         # {'2018-12-06@【掘金冲锋号】孟晚舟被捕事件最新消息': 0.07705318030986552, '2018-12-06@华为回应孟晚舟事件':0.2}
 
         #正常的textRank方法在排序后会生成topK个关键词
@@ -183,12 +208,12 @@ class Docrank:
     def timeline(self, nodes_rank):
         # 时间线新闻纪录，即同一个时间只挑选重要度最高的新闻
         # 将最后的重要事件输出
-        f_timelines = open(os.path.join(self.outPath,'timelines.txt'), 'w+')
+        f_timelines = open(os.path.join(self.outPath,'timelines.txt'), 'w+',encoding='utf-8')
         # 将所有事件按照重要度排序后输出
-        f_important = open(os.path.join(self.outPath,'important_doc.txt'), 'w+')
+        f_important = open(os.path.join(self.outPath,'important_doc.txt'), 'w+',encoding='utf-8')
         date_dict = {}
         timelines = {}
-        print("-------将同一时间的文章按照重要性进行排序------")
+        print("5 将同一时间的文章按照重要性进行排序")
         for item in nodes_rank:
             f_important.write(item[0] + ' ' + str(item[1]) + '\n')
             doc = item[0]
@@ -204,7 +229,7 @@ class Docrank:
         print("向story文件夹写入数据,每一个时间文件下存放该时间的新闻----")
         # print("date_dict:",date_dict)  date_dict: {20190225: {'2019-02-25@好看能打！小米9详细评测：全面进化的骁龙855旗舰标杆': 1.0, '2019-02-25@小米9和小米9se摄像头区别': 0.32799423968674074
         for date, doc_dict in date_dict.items():
-            f = open(os.path.join(self.storyPath, str(date)), 'w+')
+            f = open(os.path.join(self.storyPath, str(date)), 'w+',encoding='utf-8')
             #同一个时间点，所有文章按重要性倒序排
             doc_dict = sorted(doc_dict.items(), key = lambda asd:asd[1], reverse=True)
             # print("doc_dict:",doc_dict) 输出：doc_dict: [('2019-02-25@好看能打！小米9详细评测：全面进化的骁龙855旗舰标杆', 1.0), ('2019-02-25@小米9和小米9se摄像头区别', 0.32799423968674074)
@@ -214,18 +239,18 @@ class Docrank:
             for i in doc_dict:
                 f.write(i[0] + "\t" + str(i[1]) + '\n')
             f.close()
-        print("向timelines写入数据-----")
+        print("向timelines写入数据")
         for i in sorted(timelines.items(), key=lambda asd:asd[0], reverse=False):
             f_timelines.write(str(i[0]) + ' ' + ' '.join(i[1]) + '\n')
 
         f_timelines.close()
         f_important.close()
-        print("运行结束-----")
+        print("6 运行结束")
         return timelines
     # 辅助函数，将中间形成的数据输出在txt中
     def write_util(self,filepath,text_name,dict):
          # 创建文件并写入
-         w_text_graph = open(os.path.join(filepath, text_name), 'w+')
+         w_text_graph = open(os.path.join(filepath, text_name), 'w+',encoding='utf-8')
          # js = json.dumps(dict)  转成json后乱码
          w_text_graph.write(str(dict))
          # for temp in dict.items():
@@ -239,28 +264,32 @@ def main():
     curPath = os.getcwd()
     # D:\Users\mengmeng-guo\PycharmProjects\KG
     dirName = os.path.dirname(os.getcwd())
-    event_list = ['孟晚舟事件', '视觉中国事件', '复联4']
+    event_list = [ '视觉中国事件', '复联4','996事件','奔驰女车主维权']
+
     for event in event_list:
+        print(event,"开始")
         # 爬取的新闻路径
         newsPath = os.path.join(os.path.join(dirName, 'EventM\EventMonitor\\news'), event)
         if not os.path.exists(newsPath):
             os.makedirs(newsPath)
-        print("newsPath", newsPath)
+        # print("newsPath", newsPath)
 
         # 存储结果路径
-        outPath = os.path.join(os.path.join(curPath, 'out'), event)
-        print("outPath拼接", outPath)
+        outPath = os.path.join(os.path.join(curPath, 'output'), event)
+        # print("outPath拼接", outPath)
         if not os.path.exists(outPath):
             os.makedirs(outPath)
 
-        storyPath = os.path.join(os.path.join(curPath, 'st'), event)
-        print("storyPath", storyPath)
+        storyPath = os.path.join(os.path.join(curPath, 'story'), event)
+        # print("storyPath", storyPath)
         if not os.path.exists(storyPath):
             os.makedirs(storyPath)
 
         handler = Docrank(newsPath,storyPath,outPath)
         doc_graph = handler.doc_graph()
         timelines = handler.timeline(doc_graph)
+        sumary = handler.getSummary()
+        print(event, "结束")
 
 if __name__ == '__main__':
     main()

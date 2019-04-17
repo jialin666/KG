@@ -1,1 +1,0 @@
-defaultdict(<class 'list'>, {})
